@@ -23,8 +23,8 @@ Honors and Awards
 * Outstanding Graduate Research Assistant Award, University of Notre Dame
 * Video Presentation Award, ACM/IEE IWQoS 2020
 * W. J. Cody Associates, Argonne National Laboratory 
-* IEEE Student Travel Award, IEEE 
-* IEEE Student Travel Award, IEEE 
+* IEEE Student Travel Award, IEEE BigData 2019
+* IEEE Student Travel Award, IEEE BigData 2018
 * Data Science Scholar Fellowship, Indiana University
 * First Class Scholarship, Wuhan University 
 
