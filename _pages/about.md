@@ -14,7 +14,7 @@ I am a postdoctoral research associate in [the School of Information Sciences](h
 
 Research Interests
 ======
- * My research focuses on the [Human-centered Artificial Intelligence (AI)]() and [Social Sensing](). In particular, my research aims to explicitly utilize the human intelligence from crowdsourcing systems (i.e., crowd intelligence) to effectively [design, configure, and troubleshoot]() the AI models to improve the [performance, fairness, explainability, and accountability] of the AI models in social sensing applications.
+ * My research focuses on the [Human-centered Artificial Intelligence (AI)]() and [Social Sensing](). In particular, my research aims to explicitly utilize the human intelligence from crowdsourcing systems (i.e., crowd intelligence) to effectively [design, configure, and troubleshoot]() the AI models to improve the [performance, fairness, explainability, and accountability]() of the AI models in social sensing applications.
 * I am delighted to design principled solutions that integrate the state-of-the-art [crowdsourcing techniques]() (e.g., Amazon MTurk),  [AI models]() (e.g., convolutional/recurrent/graph neural network, generative adversarial network, transfer/contrastive learning), and [estimation theoretical approaches]() (e.g., maximum likelihood estimation (MLE), subjective logic) to jointly model the diversified yet complementary AI and crowd intelligence to address a rich set of complex real-world problems including urban infrastructure monitoring, disaster damage assessment, traffic risk prediction, misinformation detection, etc.
 
 Honors and Awards
