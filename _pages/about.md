@@ -15,7 +15,7 @@ I am a postdoctoral research associate in [the School of Information Sciences](h
 
 I have authored and co-authored 60+ peer-reviewed conference/journal papers, including 28 first-authored ones, in various highly competitive human-centered AI and social sensing and computing venues such as ACM CSCW, IEEE BigData, ACM/IEEE ASONAM, AAAI HCOMP, IEEE TBD, IEEE TCSS, ACM/IEEE IWQoS, IEEE SECON, ACM RecSys, Elsevier KBS.
 
-Research Statements
+Research Interests
 ======
  My research focuses on the Human-centered Artificial Intelligence (AI) and Social Sensing. In particular, my research aims to explicitly utilize the human intelligence from crowdsourcing systems (i.e., crowd intelligence) to effectively design, configure, and troubleshoot the AI models to improve the performance, fairness, explainability, and accountability of the AI models in social sensing applications.
 
