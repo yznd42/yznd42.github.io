@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Work experience
+Experience
 ======
 * Postdoctoral Research Associate - University of Illinois Urbana-Champaign
   * School of Information Sciences
