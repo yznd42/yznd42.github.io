@@ -19,6 +19,7 @@ Research Interests
 
 Honors and Awards
 ======
+* Best Paper Award, ACM/IEEE ASONAM 2022
 * Best Paper Honorable Mention, IEEE SMARTCOMP 2022
 * Outstanding Graduate Research Assistant Award, University of Notre Dame
 * Video Presentation Award, ACM/IEEE IWQoS 2020
