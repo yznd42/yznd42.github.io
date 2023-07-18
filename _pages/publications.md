@@ -4,23 +4,7 @@ title: "Research & Publications"
 permalink: /publications/
 author_profile: true
 ---
-<ul>
-  <li>Spring 2024, UIUC
-      <ul>
-      <li><a href="https://ischool.illinois.edu/degrees-programs/courses/is455">IS 455 Database Design and Prototyping</a></li>
-      <li><a href="https://ischool.illinois.edu/degrees-programs/courses/is327">IS 327 Concepts of Machine Learning</a></li>
-    </ul>
-  </li>
-  <li>Fall 2023, UIUC
-      <ul>
-          <li><a href="https://ischool.illinois.edu/degrees-programs/courses/is455">IS 455 Database Design and Prototyping</a></li>
-      <li><a href="https://ischool.illinois.edu/degrees-programs/courses/is206">IS 206 Introduction to Database Concepts and Applications</a></li>
-    </ul>
-  </li>
-  <li>Spring 2023, UIUC
-      <ul>
-          <li><a href="https://ischool.illinois.edu/degrees-programs/courses/is455">IS 455 Database Design and Prototyping</a></li>
-    </ul>
-  </li>
-</ul>
-<h1> Services</h1>
+
+I have authored and co-authored 60+ peer-reviewed conference/journal papers, including 32 first-authored ones, in various highly competitive and primer AI and Social Computing venues such as AAAI, IJCAI, WWW, CSCW, ACL etc. I am the recipient of the Best Paper Award of 2022 ACM/IEEE International Conference on Advances in Social Networks Analysis and Mining (ASONAM) and the Best Paper Honorable Mention of 8th IEEE SmartComp. My Google Scholar citation is 1146 and h-index is 20.<br><br>
+
+<a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Full publication list can be found in my google scholar pag</a>
