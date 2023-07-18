@@ -10,22 +10,21 @@ redirect_from:
 
 
 
-I am a postdoctoral research associate in the  [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). I received my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) under the supervision of [Prof. Dong Wang](https://www.wangdong.org/). Before that, I got my M.S. in Data Science from [Indiana University](https://www.indiana.edu/) and attained my B.S. in Software Engineering from [Wuhan University](https://www.whu.edu.cn/).  I have also worked as the W. J. Cody Research Associates at [Argonne National Laboratory](https://www.anl.gov/). I have authored and co-authored [60+]() peer-reviewed conference/journal papers in various highly competitive [human-centered AI]() and [social sensing and computing]() venues such as ACM CSCW, IEEE BigData, ACM/IEEE ASONAM, AAAI, IJCAI, ACM WWW, AAAI HCOMP, RTSS, IEEE TBD, IEEE TCSS, ACM/IEEE IWQoS, IEEE SECON, ACM RecSys, Elsevier KBS.
+I will be working as a Teaching Assistant Professor from Fall 2023 in the [School of Information Sciences (iSchool)](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that I worked as a Postdoctoral Research Associate in iSchool at UIUC. I received my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) advised by [Prof. Dong Wang](https://www.wangdong.org/).  I have also worked as the W. J. Cody Research Associate at [Argonne National Laboratory](https://www.anl.gov/).
 
 Research Interests
 ======
- * My research focuses on the [Human-centered Artificial Intelligence (AI)]() and [Social Sensing](). In particular, my research aims to explicitly utilize the human intelligence from crowdsourcing systems (i.e., crowd intelligence) to effectively [design, configure, and troubleshoot]() the AI models to improve the [performance, fairness, explainability, and accountability]() of the AI models in social sensing applications.
+ * My research focuses on the [Human-centered Artificial Intelligence (AI)]() and [Human-AI Collbration](). In particular, my research aims to explicitly utilize the human intelligence from crowdsourcing systems (i.e., crowd intelligence) to effectively [design, configure, and troubleshoot]() the AI models to improve the [performance, fairness, explainability, and accountability]() of the AI models in real-world applications.
 * I am delighted to design principled solutions that integrate the state-of-the-art [crowdsourcing techniques]() (e.g., Amazon MTurk),  [AI models]() (e.g., convolutional/recurrent/graph neural network, generative adversarial network, transfer/contrastive learning), and [estimation theoretical approaches]() (e.g., maximum likelihood estimation (MLE), subjective logic) to jointly model the diversified yet complementary AI and crowd intelligence to address a rich set of complex real-world problems including urban infrastructure monitoring, disaster damage assessment, traffic risk prediction, misinformation detection, etc.
 
 Honors and Awards
 ======
-* Best Paper Award, ACM/IEEE ASONAM 2022
-* Best Paper Honorable Mention, IEEE SMARTCOMP 2022
+* Best Paper Award, ACM/IEEE ASONAM 
+* Best Paper Honorable Mention, IEEE SMARTCOMP 
 * Outstanding Graduate Research Assistant Award, University of Notre Dame
-* Video Presentation Award, ACM/IEEE IWQoS 2020
+* Video Presentation Award, ACM/IEEE IWQoS 
 * W. J. Cody Associates, Argonne National Laboratory 
-* IEEE Student Travel Award, IEEE BigData 2019
-* IEEE Student Travel Award, IEEE BigData 2018
+* IEEE Student Travel Award, IEEE BigData 
 * Data Science Scholar Fellowship, Indiana University
 * First Class Scholarship, Wuhan University 
 
