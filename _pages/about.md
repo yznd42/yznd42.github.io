@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I will be working as a Teaching Assistant Professor from Fall 2023 in the [School of Information Sciences (iSchool)](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that I worked as a Postdoctoral Research Associate in iSchool at UIUC. I received my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) advised by [Prof. Dong Wang](https://www.wangdong.org/).  I also worked as the W. J. Cody Research Associate at [Argonne National Laboratory](https://www.anl.gov/).
+I am working as a Teaching Assistant Professor from Fall 2023 in the [School of Information Sciences (iSchool)](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that I worked as a Postdoctoral Research Associate in iSchool at UIUC. I received my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) advised by [Prof. Dong Wang](https://www.wangdong.org/).  I also worked as the W. J. Cody Research Associate at [Argonne National Laboratory](https://www.anl.gov/).
 
 Research Interests
 ======
