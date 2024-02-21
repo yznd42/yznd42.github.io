@@ -19,7 +19,7 @@ Research Interests
 
 Honors and Awards
 ======
-* Teachers Ranked as Excellent by Their Students, UIUC
+* Teachers Ranked as Excellent, UIUC
 * Best Paper Award, ACM/IEEE ASONAM
 * Best Paper Honorable Mention, IEEE SMARTCOMP
 * Outstanding Graduate Research Assistant Award, University of Notre Dame
