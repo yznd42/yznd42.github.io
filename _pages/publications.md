@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 I have authored 80+ peer-reviewed conference/journal papers in various highly competitive and primer AI, Big Data, and Collborative Computing venues. My Google Scholar h-index is 21. Here are some recent publications. Please see my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar</a> page for a complete list.
-
-*  <font size="1">**WWW24**: SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment</font> 
+<font size="3">
+*  **WWW24**: SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment 
 * **WWW24**: MMAdapt: A Knowledge-guided Multi-source Multi-class Domain Adaptive Framework for Early Health Misinformation Detection
 * **ICWSM24**: Domain Adaptive Graph Learning Framework to Early Detection of Emergent Healthcare Misinformation on Social Media
 * **AAAI HCOMP23**: A Crowd-AI Collaborative Approach to Address Demographic Bias for Student Performance Prediction in Online Education
@@ -22,4 +22,4 @@ I have authored 80+ peer-reviewed conference/journal papers in various highly co
 * **CSCW 22**: CrowdNAS: A Crowd-guided Neural Architecture Searching Approach to Disaster Damage Assessment
 * **IJCAI 22**: On Attacking Out-Domain Uncertainty Estimation in Deep Neural Networks
 * **IJCAI 22**: Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation based COVID-19 Misinformation Detection
-
+</font>
