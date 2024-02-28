@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-I have authored 80+ peer-reviewed conference/journal papers in various highly competitive and primer AI, Big Data, and Collborative Computing venues. My Google Scholar h-index is 21. Here are some recent publications. Please see my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar</a> page for a complete list.
+I have authored over 80 peer-reviewed papers published in premier conferences and journals within the fields of Artificial Intelligence (AI), Big Data, and Collaborative Computing. My research work is recognized with a Google Scholar h-index of 21. Below is a selection of my recent publications. For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
+
+
 
 *  **WWW24**: <font size="3">SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment <font size>
 * **WWW24**: <font size="3">MMAdapt: A Knowledge-guided Multi-source Multi-class Domain Adaptive Framework for Early Health Misinformation Detection<font size>
