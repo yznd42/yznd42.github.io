@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-I have authored over 80 peer-reviewed papers published in premier conferences and journals within the fields of Artificial Intelligence (AI), Big Data, and Collaborative Computing. My research work is recognized with a Google Scholar h-index of 21. Below is a selection of my recent publications. For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
+I have authored over 80 peer-reviewed papers published in premier conferences and journals within the fields of Artificial Intelligence (AI), Big Data, and Collaborative Computing. My research work is recognized with a Google Scholar h-index of 21. Below is a selection of my recent publications. 
 
 
 
@@ -24,3 +24,6 @@ I have authored over 80 peer-reviewed papers published in premier conferences an
 * <font size="2">[CSCW 22] CrowdNAS: A Crowd-guided Neural Architecture Searching Approach to Disaster Damage Assessment<font>
 * <font size="2">[IJCAI 22] On Attacking Out-Domain Uncertainty Estimation in Deep Neural Networks<font>
 * <font size="2">[IJCAI 22] Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation based COVID-19 Misinformation Detection <font>
+
+
+For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
