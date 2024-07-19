@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-I have authored over 80 peer-reviewed papers published in premier conferences and journals within the fields of Artificial Intelligence (AI), Big Data, and Collaborative Computing. My research work is recognized with a Google Scholar h-index of 21. Below is a selection of my recent publications. 
-
 
 
 * <font size="2">[WWW24] SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment <font>
