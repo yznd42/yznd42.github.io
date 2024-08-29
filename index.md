@@ -33,13 +33,17 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 </ul>
 
 
-## News
+## Awards
 
-- **[Feb. 2020]** xx 2020.
-- **[Feb. 2020]** xxx Singapore
-- **[Sept. 2019]** xxx 2019.
-- **[Mar. 2019]** xxx.
-
+- **[2023, 2024]** Teachers Ranked as Excellent, University of Illinois
+- **[2022]** Best Paper Award, ACM/IEEE ASONAM
+- **[2022]** Best Paper Honorable Mention, IEEE SMARTCOMP
+- **[2021]** Outstanding Graduate Research Assistant Award, University of Notre Dame 
+- **[2021]** Video Presentation Award, ACM/IEEE IWQoS
+- **[2020]** W. J. Cody Associate Award, Argonne National Laboratory
+- **[2018, 2019]** Conference Travel Award, IEEE
+- **[2015]** Data Science Scholar Fellowship, Indiana Unviersity
+- **[2010, 2011]** First Class Scholarship, Wuhan Unviersity
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
