@@ -33,7 +33,7 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 </ul>
 
 
-## Awards
+## Awards and Honors
 
 - **[2023, 2024]** Teachers Ranked as Excellent, University of Illinois
 - **[2022]** Best Paper Award, ACM/IEEE ASONAM
