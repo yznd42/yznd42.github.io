@@ -21,8 +21,8 @@ linkedin: https://www.linkedin.com/in/yang-z-832aa3150/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/yangzhang.jpg
-favicon: ./assets/img/yangzhang.jpg
-favicon_dark: ./assets/img/yangzhang.jpg
+favicon: ./assets/img/YZ.jpg
+favicon_dark: ./assets/img/YZ.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
