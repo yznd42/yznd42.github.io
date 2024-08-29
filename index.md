@@ -10,26 +10,26 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 <h4 style="margin:0 10px 0;">Human-AI/LLM Collaboration:</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Human-AI alignment and collaboration in generative models</autocolor></a></li>
-  <li><autocolor>Collaborative neural architecture search and hyperparameter optimization with human-AI interaction</autocolor></a></li>
-  <li><autocolor>Development of synergistic frameworks for integrating human expertise with AI/LLM capabilities</autocolor></a></li>
+  <li><autocolor>Human-AI alignment and collaboration in generative models</autocolor></li>
+  <li><autocolor>Collaborative neural architecture search and hyperparameter optimization with human-AI interaction</autocolor></li>
+  <li><autocolor>Development of synergistic frameworks for integrating human expertise with AI/LLM capabilities</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">AI/Deep Learning Modeling Challenges</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Addressing data sparsity in AI models and enhancing learning from limited data</autocolor></a></li>
-  <li><autocolor>Tackling information multimodality for more comprehensive AI understanding</autocolor></a></li>
-    <li><autocolor>Ensuring the trustworthiness and universality of AI models across diverse applications</autocolor></a></li>
+  <li><autocolor>Addressing data sparsity in AI models and enhancing learning from limited data</autocolor></li>
+  <li><autocolor>Tackling information multimodality for more comprehensive AI understanding</autocolor></li>
+    <li><autocolor>Ensuring the trustworthiness and universality of AI models across diverse applications</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Human-Centered AI Applications</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Disaster informatics and using AI for effective response and management</autocolor></a></li>
-  <li><autocolor>Detection and mitigation of public health misinformation through AI</autocolor></a></li>
-    <li><autocolor>AI-driven drug discovery for accelerating therapeutic development</autocolor></a></li>
-        <li><autocolor>Enhancing intelligence in infrastructure inspection through AI-driven approaches</autocolor></a></li>
+  <li><autocolor>Disaster informatics and using AI for effective response and management</autocolor></li>
+  <li><autocolor>Detection and mitigation of public health misinformation through AI</autocolor></li>
+    <li><autocolor>AI-driven drug discovery for accelerating therapeutic development</autocolor></li>
+        <li><autocolor>Enhancing intelligence in infrastructure inspection through AI-driven approaches</autocolor></li>
 </ul>
 
 
