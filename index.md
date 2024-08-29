@@ -17,7 +17,7 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 
 <h4 style="margin:0 10px 0;">AI/Deep Learning Modeling Challenges</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><autocolor>Addressing data sparsity in AI models and enhancing learning from limited data</autocolor></li>
   <li><autocolor>Tackling information multimodality for more comprehensive AI understanding</autocolor></li>
     <li><autocolor>Ensuring the trustworthiness and universality of AI models across diverse applications</autocolor></li>
