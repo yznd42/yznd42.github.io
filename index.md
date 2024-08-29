@@ -11,8 +11,8 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Human-AI alignment and collaboration in generative models</autocolor></li>
-  <li><autocolor>Collaborative neural architecture search and hyperparameter optimization with human-AI interaction</autocolor></li>
-  <li><autocolor>Development of synergistic frameworks for integrating human expertise with AI/LLM capabilities</autocolor></li>
+  <li><autocolor>Collaborative neural architecture and hyperparameter searh with human-AI interaction</autocolor></li>
+  <li><autocolor>Development of Co-Learning Frameworks for Integrating Human Intelligence with AI/LLM</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">AI/Deep Learning Modeling Challenges</h4>
