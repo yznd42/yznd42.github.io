@@ -48,6 +48,10 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 {% include_relative _includes/publications.md %}
 
 ## Recent Publications
+
+For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
+
+
 * <font size="2">[WWW24] SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment <font>
 * <font size="2">[WWW24] MMAdapt: A Knowledge-guided Multi-source Multi-class Domain Adaptive Framework for Early Health Misinformation Detection<font>
 * <font size="2"> [ICWSM24] Domain Adaptive Graph Learning Framework to Early Detection of Emergent Healthcare Misinformation on Social Media<font>
