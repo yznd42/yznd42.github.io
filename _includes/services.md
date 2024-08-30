@@ -13,7 +13,7 @@
   <li><autocolor>IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS'19,21)</autocolor></li>
   <li><autocolor>ACM/IEEE International Conference on Internet of Things Design and Implementation (IOTDI'19)</autocolor></li>
   <li><autocolor>IEEE International Conference on Computer Communications and Networks (ICCCN'18)</autocolor></li>
-</ul>
+
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -31,18 +31,13 @@
   <li><autocolor>Springer International Journal of Data Science and Analytics</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Other Services</h4>
 
 <ul style="margin:0 0 20px;">
 <ul>
-  <li><autocolor><b>Action Editor/Area Chair</b>, ACL Rolling Review (ARR) <span style="float: right;">2023-Current</span></autocolor></li>
-  <li><autocolor><b>Editorial Board</b>, Frontiers in Big Data <span style="float: right;">2023-Current</span></autocolor></li>
-  <li><autocolor><b>MISM Committee</b>, iSchool UIUC <span style="float: right;">2023-2014</span></autocolor></li>
-  <li><autocolor><b>PhD Admission Reviewer</b>, iSchool UIUC <span style="float: right;">2023-2014</span></autocolor></li>
-  <li><autocolor><b>Session Chair</b>, IEEE Cluster 2021 <span style="float: right;">2021</span></autocolor></li>
-  <li><autocolor><b>Representative</b>, Graduate Student Union (GSU), University of Notre Dame <span style="float: right;">2020-2021</span></autocolor></li>
-  <li><autocolor><b>Committee Member</b>, Professional Development Committee, GSU, University of Notre Dame <span style="float: right;">2020-2021</span></autocolor></li>
-  <li><autocolor><b>Graduate Student Board</b>, Department of CSE, University of Notre Dame <span style="float: right;">2019-2020</span></autocolor></li>
+  <li><autocolor>Action Editor/Area Chair, ACL Rolling Review (ARR) </autocolor></li>
+  <li><autocolor>Editorial Board, Frontiers in Big Data </autocolor></li>
+  <li><autocolor>ESession Chair, IEEE Cluster 2021 </autocolor></li>
 </ul>
 
 
