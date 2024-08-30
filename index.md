@@ -46,4 +46,33 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 - **[2010, 2011]** First Class Scholarship, Wuhan Unviersity
 {% include_relative _includes/publications.md %}
 
+## Teaching
+<h4 style="margin:0 10px 0;">Fall 2024 (In Progress)</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Spring 2024</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
+  <li><autocolor>IS 327 Concepts of Machine Learning</autocolor></li>
+</ul>
+
+
+<h4 style="margin:0 10px 0;">Fall 2023</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
+  <li><autocolor>IS 206 Introduction to Database Concepts and Applications</autocolor></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Spring 2023</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
+</ul>
+
+
 {% include_relative _includes/services.md %}
