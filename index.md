@@ -53,7 +53,7 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
   <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Spring 2024</h4>
+<h4 style="margin:0 10px 0;">Spring 2024 (Teachers Ranked as Excellent)</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
@@ -61,14 +61,14 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Fall 2023</h4>
+<h4 style="margin:0 10px 0;">Fall 2023 (Teachers Ranked as Excellent)</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
   <li><autocolor>IS 206 Introduction to Database Concepts and Applications</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Spring 2023</h4>
+<h4 style="margin:0 10px 0;">Spring 2023 (Teachers Ranked as Excellent)</h4>
 
 <ul style="margin:0 0 20px;">
   <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
