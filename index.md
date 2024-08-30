@@ -51,8 +51,9 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
 
 
-**Y. Zhang**, R. Zong, L. Shang, H. Zeng, Z. Yue, D. Wang. SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment. <i>International World Wide Web Conference</I>, Austin, Texas, 2024. [Acceptance rate: 20\%]<br>
-**Y. Zhang**, R. Zong, L. Shang, H. Zeng, Z. Yue, D. Wang. SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment. <i>International World Wide Web Conference</i>, Austin, Texas, 2024. [Acceptance rate: 20\%]<br>**[ICWSM'24]** Domain Adaptive Graph Learning Framework to Early Detection of Emergent Healthcare Misinformation on Social Media <br>
+**[WWW]** **Y. Zhang**, R. Zong, L. Shang, H. Zeng, Z. Yue, D. Wang. SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment. <i>International World Wide Web Conference</I>, Austin, Texas, 2024. [Acceptance rate: 20%]<br>
+**[WWW]** L. Shang, **Y. Zhang**, B. Chen, R. Zong, Z. Yue, H. Zeng, B. Wei, D. Wang. MMAdapt: A Knowledge-guided Multi-source Multi-class Domain Adaptive Framework for Early Health Misinformation Detection. <i>International World Wide Web Conference<i>, Austin, Texas, 2024. [Acceptance rate: 19.5\%]<br>
+**[ICWSM'24]** Domain Adaptive Graph Learning Framework to Early Detection of Emergent Healthcare Misinformation on Social Media <br>
 **[HCOMP'23]** A Crowd-AI Collaborative Approach to Address Demographic Bias for Student Performance Prediction in Online Education <br>
 **[IJCAI'23]** Adversarial Robustness of Demographic Fairness in Face Attribute Recognition <br>
 **[IJCAI'23]** On Optimizing Model Generality in AI-based Disaster Damage Assessment: A Subjective Logic-driven Crowd-AI Hybrid Learning Approach <br>
