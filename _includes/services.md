@@ -36,7 +36,7 @@
 <ul style="margin:0 0 20px;">
   <li><autocolor>Action Editor/Area Chair, ACL Rolling Review (ARR) </autocolor></li>
   <li><autocolor>Editorial Board, Frontiers in Big Data </autocolor></li>
-  <li><autocolor>ESession Chair, IEEE Cluster 2021 </autocolor></li>
+  <li><autocolor>Session Chair, IEEE Cluster 2021 </autocolor></li>
 </ul>
 
 
