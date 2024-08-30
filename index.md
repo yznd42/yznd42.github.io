@@ -46,7 +46,7 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 - **[2010, 2011]** First Class Scholarship, Wuhan Unviersity
 
 
-## Selected Recent Publications
+## Recent Publications
 
 For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
 
