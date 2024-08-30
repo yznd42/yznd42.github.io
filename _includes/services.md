@@ -3,16 +3,16 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
- <li><autocolor>ACL Rolling Review (ARR'23,24)</autocolor></li>
-  <li><autocolor>ACM Collective Intelligence Conference (CI'24)</autocolor></li>
-  <li><autocolor>IEEE/ACM International Conference on Advances in Social Network Analysis and Mining (ASONAM'23,24)</autocolor></li>
-  <li><autocolor>International Joint Conference on Artificial Intelligence (IJCAI'23,24)</autocolor></li>
-  <li><autocolor>AAAI Conference on Artificial Intelligence (AAAI'22,23,24)</autocolor></li>
-  <li><autocolor>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'18,19,22)</autocolor></li>
-  <li><autocolor>IEEE International Conference on Cluster Computing (Cluster'21)</autocolor></li>
-  <li><autocolor>IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS'19,21)</autocolor></li>
-  <li><autocolor>ACM/IEEE International Conference on Internet of Things Design and Implementation (IOTDI'19)</autocolor></li>
-  <li><autocolor>IEEE International Conference on Computer Communications and Networks (ICCCN'18)</autocolor></li>
+ <li><autocolor>ACL Rolling Review </autocolor></li>
+  <li><autocolor>ACM Collective Intelligence Conference</autocolor></li>
+  <li><autocolor>IEEE/ACM International Conference on Advances in Social Network Analysis and Mining</autocolor></li>
+  <li><autocolor>International Joint Conference on Artificial Intelligence</autocolor></li>
+  <li><autocolor>AAAI Conference on Artificial Intelligence </autocolor></li>
+  <li><autocolor>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</autocolor></li>
+  <li><autocolor>IEEE International Conference on Cluster Computing </autocolor></li>
+  <li><autocolor>IEEE International Conference on Distributed Computing in Sensor Systems</autocolor></li>
+  <li><autocolor>ACM/IEEE International Conference on Internet of Things Design and Implementation</autocolor></li>
+  <li><autocolor>IEEE International Conference on Computer Communications and Networks</autocolor></li>
 
 </ul>
 
@@ -34,7 +34,6 @@
 <h4 style="margin:0 10px 0;">Other Services</h4>
 
 <ul style="margin:0 0 20px;">
-<ul>
   <li><autocolor>Action Editor/Area Chair, ACL Rolling Review (ARR) </autocolor></li>
   <li><autocolor>Editorial Board, Frontiers in Big Data </autocolor></li>
   <li><autocolor>ESession Chair, IEEE Cluster 2021 </autocolor></li>
