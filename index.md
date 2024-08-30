@@ -7,7 +7,7 @@ layout: homepage
 Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher at the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign (UIUC). I am also affiliated with the Gradudate College, the Illinois Informatics Institute, and the Social Sensing & Intelligence Lab at UIUC. Previously, I worked as a W.J. Cody Research Associate at Argonne National Laboratory. I received my Ph.D. in Computer Science from the University of Notre Dame, advised by Dr. Dong Wang, an M.S. in Data Science from Indiana University Bloomington, and a B.E. in Software Engineering from Wuhan University. 
 
 ## Research Interests
-<h4 style="margin:0 10px 0;">Human-AI/LLM Collaboration:</h4>
+<h4 style="margin:0 10px 0;">Human-AI/LLM Collaboration</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Human-AI alignment and collaboration in generative models</autocolor></li>
