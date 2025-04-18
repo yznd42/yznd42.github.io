@@ -79,16 +79,19 @@ For a comprehensive list of my scholarly contributions, please visit my <a href=
   <strong>[SECON]</strong> <strong>Y. Zhang</strong>, R. Zong, L. Shang, H. Zeng, Z. Yue, and D. Wang. A Symbiotic Human-AI Co-Learning Framework for Healthcare Policy Adherence Assessment in Social Sensing. <i>IEEE International Conference on Sensing, Communication and Networking</i>, Madrid, Spain, 2023. 
   
   <strong>[IJCAI]</strong> <strong>Y. Zhang</strong>, R. Zong, L. Shang, H. Zeng, Z. Yue, and D. Wang. On Optimizing Model Generality in AI-based Disaster Damage Assessment: A Subjective Logic-driven Crowd-AI Hybrid Learning Approach. <i>International Joint Conference on Artificial Intelligence</i>, Macao, SAR, 2023.
+
+  <strong>[IJCAI]</strong> H. Zeng, Z. Yue, L. Shang, <strong>Y. Zhang</strong>, and D. Wang. Adversarial Robustness of Demographic Fairness in Face Attribute Recognition. <i>International Joint Conference on Artificial Intelligence</i>, Macao, SAR, 2023.
   
   <strong>[WWW]</strong> <strong>Y. Zhang</strong>, L. Shang, R. Zong, H. Zeng, Z. Yue, and D. Wang. CollabEquality: A Crowd-AI Collaborative Learning Framework to Address Class-wise Inequality in Web-based Disaster Response. <i>International World Wide Web Conference</i>, Austin, Texas, 2023.
+    
+  <strong>[WWW]</strong> R. Zong, <strong>Y. Zhang</strong>, L. Shang, and D. Wang. ContrastFaux: Sparse Semi-supervised Fauxtography Detection on the Web using Multi-view Contrastive Learning. <i>International World Wide Web Conference</i>, Austin, Texas, 2023.
   
   <strong>[AAAI]</strong> <strong>Y. Zhang</strong>, Z. Kou, L. Shang, H. Zhen, Z. Yue, and D. Wang. A Crowd-AI Duo Relational Graph Learning Framework Towards Social Impact Aware Photo Classification. <i>Thirty-Seven AAAI Conference on Artificial Intelligence</i>, Washington, DC, 2023. 
-  
-  <strong>[WWW]</strong> R. Zong, <strong>Y. Zhang</strong>, L. Shang, and D. Wang. ContrastFaux: Sparse Semi-supervised Fauxtography Detection on the Web using Multi-view Contrastive Learning. <i>International World Wide Web Conference</i>, Austin, Texas, 2023.
+
   
   <strong>[HCOMP]</strong> R. Zong, <strong>Y. Zhang</strong>, F. Stinar, L. Shang, H. Zeng, N. Bosch, and D. Wang. A Crowd-AI Collaborative Approach to Address Demographic Bias for Student Performance Prediction in Online Education. <i>AAAI Conference on Human Computation and Crowdsourcing</i>, Delft, Netherlands, 2023. 
   
-  <strong>[IJCAI]</strong> H. Zeng, Z. Yue, L. Shang, <strong>Y. Zhang</strong>, and D. Wang. Adversarial Robustness of Demographic Fairness in Face Attribute Recognition. <i>International Joint Conference on Artificial Intelligence</i>, Macao, SAR, 2023.
+
   
   <strong>[CIKM]</strong> H. Zeng, Z. Yue, <strong>Y. Zhang</strong>, L. Shang, and D. Wang. Manipulating Out-Domain Uncertainty Estimation in Deep Neural Networks via Targeted Clean-Label Poisoning. <i>ACM International Conference on Information and Knowledge Management</i>, Birmingham, UK, 2023. 
   
