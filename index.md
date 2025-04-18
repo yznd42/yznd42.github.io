@@ -4,11 +4,10 @@ layout: homepage
 
 ## About Me
 
-<<<<<<< HEAD
+
 Yang is a Teaching Assistant Professor at the School of Information Sciences at the University of Illinois Urbana-Champaign (UIUC), where he is also a faculty affiliate of the Illinois Informatics Institute, the Center for Health Informatics, and the Social Sensing & Intelligence Lab at UIUC. Previously, he was a Postdoctoral Research Associate at UIUC and a W. J. Cody Research Associate at Argonne National Laboratory. Dr. Zhang received his Ph.D. in Computer Science and Engineering from the University of Notre Dame, an M.S. in Data Science from Indiana University Bloomington, and a B.S. in Software Engineering from Wuhan University.
-=======
-Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher at the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign (UIUC). I am also affiliated with the Gradudate College, the Illinois Informatics Institute, and the Social Sensing & Intelligence Lab at UIUC. Previously, I worked as a W.J. Cody Research Associate at Argonne National Laboratory. I received my Ph.D. in Computer Science from the University of Notre Dame, advised by Dr. Dong Wang, an M.S. in Data Science from Indiana University Bloomington, and a B.E. in Software Engineering from Wuhan University. 
->>>>>>> e055d531245f772dcf5d12b93e14f7ded62a8bfe
+
+
 
 ## Research Interests
 <h4 style="margin:0 10px 0;">Human-AI/LLM Collaboration</h4>
@@ -54,6 +53,7 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 
 
 For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
+
   <strong>[ICWSM]</strong>R. Zong, <strong>Y. Zhang</strong>, D. Wang. Impowering LLMs to Synthesize AI and Human Intelligence for Explainable Public Health Misinformation Detection on Social Media. <i>International AAAI Conference on Web and Social Media</i>, Copenhagen, Denmark, 2025.
 
     <strong>[AAAI]</strong> L. Shang, B. Chen, S. Liu,  <strong>Y. Zhang</strong>, R. Zong, A. Vora, X. Cai, N. Wei, D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>AAAI Conference on Artificial Intelligence</i>, Philadelphia, Pennsylvania, 2025.
