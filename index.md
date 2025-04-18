@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher at the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign (UIUC). I received my Ph.D. in Computer Science from the University of Notre Dame, advised by Dr. Dong Wang, an M.S. in Data Science from Indiana University Bloomington, and a B.E. in Software Engineering from Wuhan University. I am also affiliated with the Gradudate College, the Illinois Informatics Institute, and the Social Sensing & Intelligence Lab at UIUC. Previously, I worked as a W.J. Cody Research Associate at Argonne National Laboratory.
+Yang is a Teaching Assistant Professor at the School of Information Sciences at the University of Illinois Urbana-Champaign (UIUC), where he is also a faculty affiliate of the Illinois Informatics Institute, the Center for Health Informatics, and the Social Sensing & Intelligence Lab at UIUC. Previously, he was a Postdoctoral Research Associate at UIUC and a W. J. Cody Research Associate at Argonne National Laboratory. Dr. Zhang received his Ph.D. in Computer Science and Engineering from the University of Notre Dame, an M.S. in Data Science from Indiana University Bloomington, and a B.S. in Software Engineering from Wuhan University.
 
 ## Research Interests
 <h4 style="margin:0 10px 0;">Human-AI/LLM Collaboration:</h4>
@@ -49,7 +49,15 @@ Hello, this is Yang Zhang! I am a Teaching Assistant Professor and AI researcher
 ## Recent Publications
 
 For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
+  <strong>[ICWSM]</strong>R. Zong, <strong>Y. Zhang</strong>, D. Wang. Impowering LLMs to Synthesize AI and Human Intelligence for Explainable Public Health Misinformation Detection on Social Media. <i>International AAAI Conference on Web and Social Media</i>, Copenhagen, Denmark, 2025.
 
+    <strong>[AAAI]</strong> L. Shang, B. Chen, S. Liu,  <strong>Y. Zhang</strong>, R. Zong, A. Vora, X. Cai, N. Wei, D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>AAAI Conference on Artificial Intelligence</i>, Philadelphia, Pennsylvania, 2025.
+    
+    <strong>[WWW]</strong> Y. Liu, Y. Liu, Z. Li, R. Yao, <strong>Y. Zhang</strong>,  D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>International World Wide Web Conference</i>, Austin, Texas, 2025.  
+        
+   <strong>[ACL]</strong> Z. Yue, H. Zeng, L. Shang, Y. Liu, <strong>Y. Zhang</strong>, D. Wang. Retrieval Augmented Fact Verification via Synthesis of Contrasting Arguments. <i>Annual Meeting of the Association for Computational Linguistics</i>, Bangkok, Thailand, 2024.   
+    
+  <strong>[ACL]</strong>  H. Zeng, Z. Yue,  <strong>Y. Zhang</strong>, L. Shang, D. Wang. Fair Federated Learning with Biased Vision-Language Model. <i>Annual Meeting of the Association for Computational Linguistics</i>, Bangkok, Thailand, 2024.  
 
   <strong>[WWW]</strong> <strong>Y. Zhang</strong>, R. Zong, L. Shang, H. Zeng, Z. Yue, D. Wang. SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment. <i>International World Wide Web Conference</i>, Austin, Texas, 2024. 
   
