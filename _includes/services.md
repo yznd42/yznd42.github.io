@@ -4,12 +4,15 @@
 
 <ul style="margin:0 0 5px;">
  <li><autocolor>ACL Rolling Review </autocolor></li>
+   <li><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</autocolor></li>
+   <li><autocolor>International Conference on Computer Vision (ICCV)</autocolor></li>
+    <li><autocolor>ACM Web Conference (WWW)</autocolor></li>
   <li><autocolor>ACM Collective Intelligence Conference</autocolor></li>
   <li><autocolor>IEEE/ACM International Conference on Advances in Social Network Analysis and Mining</autocolor></li>
-  <li><autocolor>International Joint Conference on Artificial Intelligence</autocolor></li>
-  <li><autocolor>AAAI Conference on Artificial Intelligence </autocolor></li>
+  <li><autocolor>International Joint Conference on Artificial Intelligence (IJCAI)</autocolor></li>
+  <li><autocolor>AAAI Conference on Artificial Intelligence (AAAI) </autocolor></li>
   <li><autocolor>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</autocolor></li>
-  <li><autocolor>IEEE International Conference on Cluster Computing </autocolor></li>
+  <li><autocolor>IEEE International Conference onw Cluster Computing </autocolor></li>
   <li><autocolor>IEEE International Conference on Distributed Computing in Sensor Systems</autocolor></li>
   <li><autocolor>ACM/IEEE International Conference on Internet of Things Design and Implementation</autocolor></li>
   <li><autocolor>IEEE International Conference on Computer Communications and Networks</autocolor></li>
