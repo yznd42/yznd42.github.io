@@ -54,9 +54,11 @@ Yang is a Teaching Assistant Professor at the School of Information Sciences at 
 
 For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
 
-    <strong>[ICWSM]</strong> R. Zong, <strong>Y. Zhang</strong>, D. Wang. Impowering LLMs to Synthesize AI and Human Intelligence for Explainable Public Health Misinformation Detection on Social Media. <i>International AAAI Conference on Web and Social Media</i>, Copenhagen, Denmark, 2025.
+<strong>[ICWSM]</strong> R. Zong, <strong>Y. Zhang</strong>, D. Wang. Impowering LLMs to Synthesize AI and Human Intelligence for Explainable Public Health Misinformation Detection on Social Media. <i>International AAAI Conference on Web and Social Media</i>, Copenhagen, Denmark, 2025.
 
- 
+<strong>[AAAI]</strong> L. Shang, B. Chen, S. Liu,  <strong>Y. Zhang</strong>, R. Zong, A. Vora, X. Cai, N. Wei, D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>AAAI Conference on Artificial Intelligence</i>, Philadelphia, Pennsylvania, 2025.
+    
+<strong>[WWW]</strong> Y. Liu, Y. Liu, Z. Li, R. Yao, <strong>Y. Zhang</strong>,  D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>International World Wide Web Conference</i>, Austin, Texas, 2025.  
         
    <strong>[ACL]</strong> Z. Yue, H. Zeng, L. Shang, Y. Liu, <strong>Y. Zhang</strong>, D. Wang. Retrieval Augmented Fact Verification via Synthesis of Contrasting Arguments. <i>Annual Meeting of the Association for Computational Linguistics</i>, Bangkok, Thailand, 2024.   
     
