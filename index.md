@@ -58,15 +58,15 @@ For a comprehensive list of my scholarly contributions, please visit my <a href=
 
 <strong>[AAAI]</strong> L. Shang, B. Chen, S. Liu,  <strong>Y. Zhang</strong>, R. Zong, A. Vora, X. Cai, N. Wei, D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>AAAI Conference on Artificial Intelligence</i>, Philadelphia, Pennsylvania, 2025.
     
-<strong>[WWW]</strong> Y. Liu, Y. Liu, Z. Li, R. Yao, <strong>Y. Zhang</strong>,  D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>International World Wide Web Conference</i>, Austin, Texas, 2025.  
+<strong>[WWW]</strong> Y. Liu, Y. Liu, Z. Li, R. Yao, <strong>Y. Zhang</strong>,  D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>ACM Web Conference</i>, Sydney, Australia, 2025.  
         
    <strong>[ACL]</strong> Z. Yue, H. Zeng, L. Shang, Y. Liu, <strong>Y. Zhang</strong>, D. Wang. Retrieval Augmented Fact Verification via Synthesis of Contrasting Arguments. <i>Annual Meeting of the Association for Computational Linguistics</i>, Bangkok, Thailand, 2024.   
     
   <strong>[ACL]</strong>  H. Zeng, Z. Yue,  <strong>Y. Zhang</strong>, L. Shang, D. Wang. Fair Federated Learning with Biased Vision-Language Model. <i>Annual Meeting of the Association for Computational Linguistics</i>, Bangkok, Thailand, 2024.  
 
-  <strong>[WWW]</strong> <strong>Y. Zhang</strong>, R. Zong, L. Shang, H. Zeng, Z. Yue, D. Wang. SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment. <i>International World Wide Web Conference</i>, Austin, Texas, 2024. 
+  <strong>[WWW]</strong> <strong>Y. Zhang</strong>, R. Zong, L. Shang, H. Zeng, Z. Yue, D. Wang. SymLearn: A Symbiotic Crowd-AI Collective Learning Framework to Web-based Healthcare Policy Adherence Assessment. <i>ACM Web Conference</i>, Austin, Texas, 2024. 
   
-  <strong>[WWW]</strong> L. Shang, <strong>Y. Zhang</strong>, B. Chen, R. Zong, Z. Yue, H. Zeng, B. Wei, D. Wang. MMAdapt: A Knowledge-guided Multi-source Multi-class Domain Adaptive Framework for Early Health Misinformation Detection. <i>International World Wide Web Conference</i>, Austin, Texas, 2024. 
+  <strong>[WWW]</strong> L. Shang, <strong>Y. Zhang</strong>, B. Chen, R. Zong, Z. Yue, H. Zeng, B. Wei, D. Wang. MMAdapt: A Knowledge-guided Multi-source Multi-class Domain Adaptive Framework for Early Health Misinformation Detection. <i>ACM Web Conference</i>, Austin, Texas, 2024. 
   
   <strong>[ICDCS]</strong> H. Zeng, Z. Yue, Q. Jiang, <strong>Y. Zhang</strong>, L. Shang, R. Zong, D. Wang. Mitigating Demographic Bias of Federated Learning Models via Robust-Fair Domain Smoothing: A Domain-Shifting Approach. <i>IEEE International Conference on Distributed Computing Systems</i>, Jersey City, New Jersey, 2024. 
   
@@ -82,9 +82,9 @@ For a comprehensive list of my scholarly contributions, please visit my <a href=
 
   <strong>[IJCAI]</strong> H. Zeng, Z. Yue, L. Shang, <strong>Y. Zhang</strong>, and D. Wang. Adversarial Robustness of Demographic Fairness in Face Attribute Recognition. <i>International Joint Conference on Artificial Intelligence</i>, Macao, SAR, 2023.
   
-  <strong>[WWW]</strong> <strong>Y. Zhang</strong>, L. Shang, R. Zong, H. Zeng, Z. Yue, and D. Wang. CollabEquality: A Crowd-AI Collaborative Learning Framework to Address Class-wise Inequality in Web-based Disaster Response. <i>International World Wide Web Conference</i>, Austin, Texas, 2023.
+  <strong>[WWW]</strong> <strong>Y. Zhang</strong>, L. Shang, R. Zong, H. Zeng, Z. Yue, and D. Wang. CollabEquality: A Crowd-AI Collaborative Learning Framework to Address Class-wise Inequality in Web-based Disaster Response. <i>ACM Web Conference</i>, Austin, Texas, 2023.
     
-  <strong>[WWW]</strong> R. Zong, <strong>Y. Zhang</strong>, L. Shang, and D. Wang. ContrastFaux: Sparse Semi-supervised Fauxtography Detection on the Web using Multi-view Contrastive Learning. <i>International World Wide Web Conference</i>, Austin, Texas, 2023.
+  <strong>[WWW]</strong> R. Zong, <strong>Y. Zhang</strong>, L. Shang, and D. Wang. ContrastFaux: Sparse Semi-supervised Fauxtography Detection on the Web using Multi-view Contrastive Learning. <i>ACM Web Conference</i>, Austin, Texas, 2023.
   
   <strong>[AAAI]</strong> <strong>Y. Zhang</strong>, Z. Kou, L. Shang, H. Zhen, Z. Yue, and D. Wang. A Crowd-AI Duo Relational Graph Learning Framework Towards Social Impact Aware Photo Classification. <i>Thirty-Seven AAAI Conference on Artificial Intelligence</i>, Washington, DC, 2023. 
 
