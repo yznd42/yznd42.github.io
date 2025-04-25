@@ -6,6 +6,7 @@
  <li><autocolor>ACL Rolling Review </autocolor></li>
    <li><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</autocolor></li>
    <li><autocolor>International Conference on Computer Vision (ICCV)</autocolor></li>
+    <li><autocolor>ACM International Conference on Multimedia (MM)</autocolor></li>
     <li><autocolor>ACM Web Conference (WWW)</autocolor></li>
   <li><autocolor>ACM Collective Intelligence Conference</autocolor></li>
   <li><autocolor>IEEE/ACM International Conference on Advances in Social Network Analysis and Mining</autocolor></li>
