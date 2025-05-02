@@ -11,11 +11,10 @@ Yang is a Teaching Assistant Professor at the School of Information Sciences at 
 ## Collaboration and Recruiting
 
 
-  I will be joining Miami University as a tenure-track Assistant Professor in the Department of Computer Science and Software Engineering starting in Fall 2025.  
-  <span style="color: red; font-weight: bold;">We have multiple fully funded positions available for Ph.D. and M.S. students in Computer Science</span>,  
-  and we also welcome <span style="color: red; font-weight: bold;">students for remote internship opportunities on collaborative research projects</span>.  
-  If you are interested, please feel free to email me your CV and a brief statement of research interests at  
-  <a href="mailto:yzhangnd.work@gmail.com">yzhangnd.work@gmail.com</a>.
+  I will be joining Miami University as a tenure-track Assistant Professor in the Department of Computer Science and Software Engineering starting in Fall 2025.
+  <span style="color: red; font-weight: bold;">We have multiple fully funded positions available for Ph.D./M.S. students in Computer Science</span>,
+     and we also welcome <span style="color: red; font-weight: bold;">students for remote internship opportunities on collaborative research projects</span>. 
+  If you are interested, please feel free to email me your CV and research interests/statement at <a href="mailto:yzhangnd.work@gmail.com">yzhangnd.work@gmail.com</a>.
 
 
 
