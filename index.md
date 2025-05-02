@@ -8,7 +8,7 @@ layout: homepage
 Yang is a Teaching Assistant Professor at the School of Information Sciences at the University of Illinois Urbana-Champaign (UIUC), where he is also a faculty affiliate of the Illinois Informatics Institute, the Center for Health Informatics, and the Social Sensing & Intelligence Lab at UIUC. Previously, he was a Postdoctoral Research Associate at UIUC and a W. J. Cody Research Associate at Argonne National Laboratory. Yang received his Ph.D. in Computer Science and Engineering from the University of Notre Dame, an M.S. in Data Science from Indiana University Bloomington, and a B.S. in Software Engineering from Wuhan University.
 
 
-## Collaboration and Recruiting
+## Collaboration and Openings
 
 
   I will be joining Miami University as a tenure-track Assistant Professor in the Department of Computer Science and Software Engineering starting in Fall 2025.
