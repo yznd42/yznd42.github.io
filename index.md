@@ -5,20 +5,7 @@ layout: homepage
 ## About Me
 
 
-  Yang is a Teaching Assistant Professor at the 
-  <a href="https://ischool.illinois.edu/" target="_blank">School of Information Sciences</a> at the 
-  <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign (UIUC)</a>, 
-  where he is also a faculty affiliate of the Illinois Informatics Institute, 
-  the Center for Health Informatics, 
-  and the Social Sensing & Intelligence Lab at UIUC.
-  Previously, he was a Postdoctoral Research Associate at UIUC and a 
-  <a href="https://www.anl.gov/" target="_blank">W. J. Cody Research Associate at Argonne National Laboratory</a>.
-  Yang received his Ph.D. in Computer Science and Engineering from the 
-  <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>, 
-  an M.S. in Data Science from 
-  <a href="https://www.indiana.edu/" target="_blank">Indiana University Bloomington</a>, 
-  and a B.S. in Software Engineering from 
-  <a href="https://en.whu.edu.cn/" target="_blank">Wuhan University</a>.
+Yang is a Teaching Assistant Professor at the School of Information Sciences at the University of Illinois Urbana-Champaign (UIUC), where he is also a faculty affiliate of the Illinois Informatics Institute, the Center for Health Informatics, and the Social Sensing & Intelligence Lab at UIUC. Previously, he was a Postdoctoral Research Associate at UIUC and a W. J. Cody Research Associate at Argonne National Laboratory. Yang received his Ph.D. in Computer Science and Engineering from the University of Notre Dame, an M.S. in Data Science from Indiana University Bloomington, and a B.S. in Software Engineering from Wuhan University.
 
 
 ## Collaboration and Recruiting
