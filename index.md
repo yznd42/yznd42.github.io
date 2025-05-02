@@ -8,10 +8,9 @@ layout: homepage
   Yang is a Teaching Assistant Professor at the 
   <a href="https://ischool.illinois.edu/" target="_blank">School of Information Sciences</a> at the 
   <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign (UIUC)</a>, 
-  where he is also a faculty affiliate of the 
-  <a href="https://informatics.illinois.edu/" target="_blank">Illinois Informatics Institute</a>, 
-  the <a href="https://healthinformatics.illinois.edu/" target="_blank">Center for Health Informatics</a>, 
-  and the <a href="https://socialsensing.github.io/" target="_blank">Social Sensing & Intelligence Lab</a> at UIUC.
+  where he is also a faculty affiliate of the Illinois Informatics Institute, 
+  the Center for Health Informatics, 
+  and the Social Sensing & Intelligence Lab at UIUC.
   Previously, he was a Postdoctoral Research Associate at UIUC and a 
   <a href="https://www.anl.gov/" target="_blank">W. J. Cody Research Associate at Argonne National Laboratory</a>.
   Yang received his Ph.D. in Computer Science and Engineering from the 
