@@ -147,6 +147,7 @@ For a comprehensive list of my scholarly contributions, please visit my <a href=
   <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
 </ul>
 
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
 
