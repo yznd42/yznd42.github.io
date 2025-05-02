@@ -1,5 +1,5 @@
 ---
-layout: homepage, probel
+layout: homepage
 ---
 
 ## About Me
