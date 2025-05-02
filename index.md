@@ -8,6 +8,14 @@ layout: homepage
 Yang is a Teaching Assistant Professor at the School of Information Sciences at the University of Illinois Urbana-Champaign (UIUC), where he is also a faculty affiliate of the Illinois Informatics Institute, the Center for Health Informatics, and the Social Sensing & Intelligence Lab at UIUC. Previously, he was a Postdoctoral Research Associate at UIUC and a W. J. Cody Research Associate at Argonne National Laboratory. Yang received his Ph.D. in Computer Science and Engineering from the University of Notre Dame, an M.S. in Data Science from Indiana University Bloomington, and a B.S. in Software Engineering from Wuhan University.
 
 
+## Collaboration and Recruiting
+
+I will be joining Miami University as a tenure-track Assistant Professor in the Department of Computer Science and Software Engineering starting in Fall 2025.
+  <span style="color: red; font-weight: bold;">We have multiple fully funded positions available for Ph.D. and M.S. in Computer Science students</span>,
+  as well as <span style="color: red; font-weight: bold;">internship opportunities for collaborative projects</span>.
+  If you are interested, please feel free to email me at <a href="mailto:yzhangnd.work@gmail.com">yzhangnd.work@gmail.com</a>.
+
+
 
 ## Research Interests
 <h4 style="margin:0 10px 0;">Human-AI/LLM Collaboration</h4>
@@ -56,7 +64,7 @@ For a comprehensive list of my scholarly contributions, please visit my <a href=
 
 <strong>[ICWSM]</strong> R. Zong, Y. Zhang, D. Wang. Impowering LLMs to Synthesize AI and Human Intelligence for Explainable Public Health Misinformation Detection on Social Media. <i>International AAAI Conference on Web and Social Media</i>, Copenhagen, Denmark, 2025.
 
-<strong>[AAAI]</strong> L. Shang, B. Chen, S. Liu,  Y. Zhang, R. Zong, A. Vora, X. Cai, N. Wei, D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>AAAI Conference on Artificial Intelligence</i>, Philadelphia, Pennsylvania, 2025.
+<strong>[AAAI]</strong> L. Shang, B. Chen, S. Liu,  Y. Zhang, R. Zong, A. Vora, X. Cai, N. Wei, D. Wang. SIDE: Socially Informed Drought Estimation Toward Understanding Societal Impact Dynamics of Environmental Crisis. <i>AAAI Conference on Artificial Intelligence</i>, Philadelphia, Pennsylvania, 2025.
     
 <strong>[WWW]</strong> Y. Liu, Y. Liu, Z. Li, R. Yao, Y. Zhang,  D. Wang. Modality Interactive Mixture-of-Experts for Fake News Detection. <i>ACM Web Conference</i>, Sydney, Australia, 2025.  
         
