@@ -34,7 +34,6 @@
     {% endif %}
   </head>
 
-  <!-- ✅ Conditional body class: no-header on subpages -->
   <body class="{% unless page.show_header %}no-header{% endunless %}">
     <div class="wrapper">
 
@@ -91,6 +90,7 @@
           <li><a href="{{ site.baseurl }}/" class="nav-link">Home</a></li>
           <li><a href="{{ site.baseurl }}/publications/" class="nav-link">Publications</a></li>
           <li><a href="{{ site.baseurl }}/teaching-and-services/" class="nav-link">Teaching & Services</a></li>
+          <li><a href="{{ site.baseurl }}/group/" class="nav-link">Group</a></li>
         </ul>
       </nav>
 
@@ -120,7 +120,6 @@
         padding-bottom: 2px;
       }
 
-      /* ✅ Make content fill the space when header is hidden */
       body.no-header .wrapper {
         display: block;
       }
@@ -145,4 +144,3 @@
     {% endif %}
   </body>
 </html>
-
