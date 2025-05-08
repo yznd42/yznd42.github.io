@@ -63,7 +63,7 @@
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>
+        </a>  
         {% endif %}
 
         {% if site.cv_link %}
@@ -93,13 +93,6 @@
         <br>
 
       </header>
-
-      <nav style="padding: 10px 0; text-align: left; font-size: 1.1rem;">
-        <a href="{{ '/' | relative_url }}" style="margin-right: 15px;">Home</a>
-        <a href="{{ '/publications/' | relative_url }}" style="margin-right: 15px;">Publications</a>
-        <a href="{{ '/teaching-and-services/' | relative_url }}">Teaching & Services</a>
-      </nav>
-
       <section>
 
       {{ content }}
