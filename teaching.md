@@ -38,9 +38,3 @@ show_header: true
 <ul style="margin:0 0 20px;">
   <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
 </ul>
-
-<h4 style="margin:0 10px 0;">Fall 2022 (Ohio State University)</h4>
-<ul style="margin:0 0 20px;">
-  <li><autocolor>CSE5559 AI for Visualization (Guest Lecture)</autocolor></li>
-</ul>
-
