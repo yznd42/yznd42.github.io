@@ -29,12 +29,12 @@ I am a Teaching Assistant Professor at the School of Information Sciences at the
   <li><autocolor>Development of Co-Learning Frameworks for Integrating Human Intelligence with AI/LLM</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">AI/Deep Learning Modeling Challenges</h4>
+<h4 style="margin:0 10px 0;">AI/LLM Modeling Challenges</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Addressing data sparsity in AI models and enhancing learning from limited data</autocolor></li>
-  <li><autocolor>Tackling information multimodality for more comprehensive AI understanding</autocolor></li>
-    <li><autocolor>Ensuring the trustworthiness and universality of AI models across diverse applications</autocolor></li>
+  <li><autocolor>Addressing data sparsity in AI/LLM models and enhancing learning from limited data</autocolor></li>
+  <li><autocolor>Tackling information multimodality for more comprehensive AI/LLM understanding</autocolor></li>
+    <li><autocolor>Ensuring the trustworthiness and universality of AI/LLM models across diverse applications</autocolor></li>
 </ul>
 
 
