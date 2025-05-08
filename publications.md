@@ -3,7 +3,7 @@ layout: homepage
 title: Publications
 permalink: /publications/
 ---
-
+<div style="padding-left: 20px">
 ## Recent Publications
 
 For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
@@ -53,3 +53,5 @@ For a comprehensive list of my scholarly contributions, please visit my <a href=
 <strong>[CSCW]</strong> Y. Zhang, R. Zong, L. Shang, Z. Kou, H. Zeng, and D. Wang. CrowdOptim: A Crowd-driven Neural Network Hyperparameter Optimization Approach to AI-based Smart Urban Sensing. <i>ACM Conference on Computer-Supported Cooperative Work and Social Computing</i>, Virtual Conference, 2022. 
 
 <strong>[CSCW]</strong> Z. Kou, Y. Zhang, D. Y. Zhang, and D. Wang. CrowdGraph: A Crowdsourcing Multi-modal Knowledge Graph Approach to Explainable Fauxtography Detection. <i>ACM Conference on Computer-Supported Cooperative Work and Social Computing</i>, Virtual Conference, 2022.
+
+</div>
