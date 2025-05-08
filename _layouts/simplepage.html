@@ -35,14 +35,13 @@
   </head>
 
   <body>
+    <!-- ✅ Centered container just like homepage -->
+    <div class="wrapper">
 
-    <!-- ✅ Shared container with max-width, no internal padding -->
-    <div class="container">
-
-      <!-- ✅ Nav bar, flush-left -->
+      <!-- ✅ Exact same nav bar as homepage -->
       <nav style="
         background-color: #f8f9fa;
-        padding: 12px 0;
+        padding: 12px 20px;
         margin-top: 20px;
         border-radius: 8px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
@@ -56,8 +55,8 @@
         </ul>
       </nav>
 
-      <!-- ✅ Content, flush-left to match nav -->
-      <section style="padding-top: 20px;">
+      <!-- ✅ Main content with matching left start and full nav width -->
+      <section style="padding: 20px;">
         {{ content }}
 
         {% if site.enable_footnote %}
@@ -68,12 +67,8 @@
       <footer></footer>
     </div>
 
+    <!-- ✅ Styling copied from homepage -->
     <style>
-      .container {
-        max-width: 860px;
-        margin: 0 auto;
-      }
-
       .nav-link {
         text-decoration: none;
         font-weight: 600;
