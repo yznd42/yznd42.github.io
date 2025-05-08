@@ -2,6 +2,7 @@
 layout: homepage
 title: Teaching and Services
 permalink: /teaching-and-services/
+show_header: true
 ---
 
 ## Teaching

@@ -1,7 +1,8 @@
 ---
-layout: simplepage
+layout: homepage
 title: Publications
 permalink: /publications/
+show_header: true
 ---
 
 ## Recent Publications
