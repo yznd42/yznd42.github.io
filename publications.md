@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Publications
-permalink: /publications.html
+permalink: /publications/
 ---
 
 ## Recent Publications

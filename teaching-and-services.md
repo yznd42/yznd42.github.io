@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Teaching and Services
-permalink: /teaching-and-services.html
+permalink: /teaching-and-services/
 ---
 
 ## Teaching
