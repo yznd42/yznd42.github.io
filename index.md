@@ -39,14 +39,6 @@ I am a Teaching Assistant Professor at the School of Information Sciences at the
     <li><autocolor>Ensuring the trustworthiness and universality of AI models across diverse applications</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Human-Centered AI Applications</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><autocolor>Disaster informatics and using AI for effective response and management</autocolor></li>
-  <li><autocolor>Detection and mitigation of public health misinformation through AI</autocolor></li>
-    <li><autocolor>AI-driven drug discovery for accelerating therapeutic development</autocolor></li>
-        <li><autocolor>Enhancing intelligence in infrastructure inspection through AI-driven approaches</autocolor></li>
-</ul>
 
 
 ## Awards and Honors
