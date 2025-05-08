@@ -14,8 +14,7 @@ I am a Teaching Assistant Professor at the School of Information Sciences at the
 ## Prospective Students
 
 
-  I will be joining Miami University as a tenure-track Assistant Professor in the Department of Computer Science and Software Engineering starting in Fall 2025.
-<span style="color: red;">We have multiple fully funded positions available for Ph.D./M.S. students in Computer Science</span>, and we also welcome <span style="color: red;">students interested in contributing to our ongoing research projects through independent study or guided research experiences</span>.
+  I will be joining Miami University as a tenure-track Assistant Professor in the Department of Computer Science and Software Engineering starting in Fall 2025. We have <span style="color: red;">multiple fully funded positions available for Ph.D./M.S. students in Computer Science</span>, and we also welcome <span style="color: red;">students interested in contributing to our ongoing research projects through independent study or guided research experiences</span>.
   If you are interested, please feel free to email me your CV and research interests/statement at <a href="mailto:yzhangnd.work@gmail.com">yzhangnd.work@gmail.com</a>.
 
 
