@@ -1,100 +1,137 @@
-<body>
-  <div class="wrapper">
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>{{ site.title }} | {{ site.affiliation }}</title>
 
-    {% if page.show_header %}
-    <header>
-      {% if site.avatar %}
-      <a class="image avatar">
-        <img src="{{ site.baseurl }}/{{ site.avatar }}" alt="avatar" />
-      </a>
-      {% endif %}
-
-      <h1>{{ site.title }}</h1>
-
-      {% if site.position %}
-      <div style="font-size:1.10rem;">{{ site.position }}</div>
-      {% endif %}
-      {% if site.affiliation %}
-      <div><a href="{{ site.affiliation_link }}" rel="noopener">{{ site.affiliation }}</a></div>
-      {% endif %}
-      {% if site.email %}
-      <div>{{ site.email }}</div>
-      {% endif %}
-
-      <div class="social-icons" style="margin-top: 10px;">
-        {% if site.google_scholar %}
-        <a href="{{ site.google_scholar }}"><i class="ai ai-google-scholar"></i></a>
-        {% endif %}
-        {% if site.cv_link %}
-        <a href="{{ site.baseurl }}/{{ site.cv_link }}"><i class="ai ai-cv"></i></a>
-        {% endif %}
-        {% if site.github_link %}
-        <a href="{{ site.github_link }}"><i class="fab fa-github"></i></a>
-        {% endif %}
-        {% if site.linkedin %}
-        <a href="{{ site.linkedin }}"><i class="fab fa-linkedin"></i></a>
-        {% endif %}
-        {% if site.twitter %}
-        <a href="{{ site.twitter }}"><i class="fab fa-x-twitter"></i></a>
-        {% endif %}
-      </div>
-    </header>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    {% if site.keywords %}
+    <meta name="keywords" content="{{ site.keywords }}">
+    {% endif %}
+    {% if site.canonical %}
+    <link rel="canonical" href="{{ site.canonical }}" />
     {% endif %}
 
-    <!-- Consistent Nav Bar -->
-    <nav style="
-      background-color: #f8f9fa;
-      padding: 12px 20px;
-      margin-top: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-      z-index: 100;
-      position: relative;
-    ">
-      <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 24px;">
-        <li><a href="{{ site.baseurl }}/" class="nav-link">Home</a></li>
-        <li><a href="{{ site.baseurl }}/publications/" class="nav-link">Publications</a></li>
-        <li><a href="{{ site.baseurl }}/teaching-and-services/" class="nav-link">Teaching & Services</a></li>
-      </ul>
-    </nav>
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.baseurl }}/{{ site.favicon_dark }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.baseurl }}/{{ site.favicon }}" type="image/png" />
+    <script src="{{ site.baseurl }}/assets/js/favicon-switcher.js" type="application/javascript"></script>
 
-    <section>
-      {{ content }}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    {% if site.font == "Sans Serif" %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/font_sans_serif.css">
+    {% else %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/font.css">
+    {% endif %}
+    {% if site.auto_dark_mode %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/publications.css">
+    {% else %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-no-dark-mode.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/publications-no-dark-mode.css">
+    {% endif %}
+  </head>
 
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank">Minimal Light</a> theme.</small></p>
+  <body>
+    <div class="wrapper">
+
+      {% if page.show_header %}
+      <header>
+        {% if site.avatar %}
+        <a class="image avatar">
+          <img src="{{ site.baseurl }}/{{ site.avatar }}" alt="avatar" />
+        </a>
+        {% endif %}
+
+        <h1>{{ site.title }}</h1>
+
+        {% if site.position %}
+        <div style="font-size:1.10rem;">{{ site.position }}</div>
+        {% endif %}
+        {% if site.affiliation %}
+        <div><a href="{{ site.affiliation_link }}" rel="noopener">{{ site.affiliation }}</a></div>
+        {% endif %}
+        {% if site.email %}
+        <div>{{ site.email }}</div>
+        {% endif %}
+
+        <div class="social-icons" style="margin-top: 10px;">
+          {% if site.google_scholar %}
+          <a href="{{ site.google_scholar }}"><i class="ai ai-google-scholar"></i></a>
+          {% endif %}
+          {% if site.cv_link %}
+          <a href="{{ site.baseurl }}/{{ site.cv_link }}"><i class="ai ai-cv"></i></a>
+          {% endif %}
+          {% if site.github_link %}
+          <a href="{{ site.github_link }}"><i class="fab fa-github"></i></a>
+          {% endif %}
+          {% if site.linkedin %}
+          <a href="{{ site.linkedin }}"><i class="fab fa-linkedin"></i></a>
+          {% endif %}
+          {% if site.twitter %}
+          <a href="{{ site.twitter }}"><i class="fab fa-x-twitter"></i></a>
+          {% endif %}
+        </div>
+      </header>
       {% endif %}
-    </section>
 
-    <footer></footer>
-  </div>
+      <!-- Styled nav bar (unchanged) -->
+      <nav style="
+        background-color: #f8f9fa;
+        padding: 12px 20px;
+        margin-top: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        z-index: 100;
+        position: relative;
+      ">
+        <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 24px;">
+          <li><a href="{{ site.baseurl }}/" class="nav-link">Home</a></li>
+          <li><a href="{{ site.baseurl }}/publications/" class="nav-link">Publications</a></li>
+          <li><a href="{{ site.baseurl }}/teaching-and-services/" class="nav-link">Teaching & Services</a></li>
+        </ul>
+      </nav>
 
-  <style>
-    .nav-link {
-      text-decoration: none;
-      font-weight: 600;
-      font-size: 1rem;
-      color: #333;
-      transition: color 0.2s ease, border-bottom 0.2s ease;
-    }
+      <section>
+        {{ content }}
 
-    .nav-link:hover {
-      color: #007acc;
-      border-bottom: 2px solid #007acc;
-      padding-bottom: 2px;
-    }
-  </style>
+        {% if site.enable_footnote %}
+        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank">Minimal Light</a> theme.</small></p>
+        {% endif %}
+      </section>
 
-  <script src="{{ site.baseurl }}/assets/js/scale.fix.js"></script>
+      <footer></footer>
+    </div>
 
-  {% if site.google_analytics %}
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', '{{ site.google_analytics }}', 'auto');
-    ga('send', 'pageview');
-  </script>
-  {% endif %}
-</body>
+    <style>
+      .nav-link {
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1rem;
+        color: #333;
+        transition: color 0.2s ease, border-bottom 0.2s ease;
+      }
+
+      .nav-link:hover {
+        color: #007acc;
+        border-bottom: 2px solid #007acc;
+        padding-bottom: 2px;
+      }
+    </style>
+
+    <script src="{{ site.baseurl }}/assets/js/scale.fix.js"></script>
+
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
