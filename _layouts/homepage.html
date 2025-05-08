@@ -63,7 +63,7 @@
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
+        </a>
         {% endif %}
 
         {% if site.cv_link %}
@@ -91,23 +91,29 @@
         {% endif %}
         </div>
         <br>
-
       </header>
+
+      <!-- Added Navigation Bar -->
+      <nav style="text-align: left; padding: 10px 0 20px;">
+        <a href="/" style="margin-right: 20px;">Home</a>
+        <a href="/publications.html" style="margin-right: 20px;">Publications</a>
+        <a href="/teaching-and-services.html">Teaching & Services</a>
+      </nav>
+
       <section>
+        {{ content }}
 
-      {{ content }}
+        <br>
 
-      <br>
-
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-      {% endif %}
-
+        {% if site.enable_footnote %}
+        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+        {% endif %}
       </section>
+
       <footer>
-        
       </footer>
     </div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
