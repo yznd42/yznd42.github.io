@@ -7,20 +7,12 @@ show_header: true
 
 ## Research Group
 
-We are a collaborative and interdisciplinary team focused on AI, human-centered computing, and applications in public health, education, and environmental resilience.
 
-### Current Members
+### Graduate Students 
 
-- **Dr. [Your Name]** (Principal Investigator)
-- [Name 1], Ph.D. Student
-- [Name 2], M.S. Student
-- [Name 3], Undergraduate Researcher
+- To be updated
 
-### Prospective Students
+### Undergraduate Students
 
-We welcome motivated students interested in AI, machine learning, NLP, and data-driven social impact. Please email your CV and research interests.
+- To be updated
 
-### Alumni
-
-- [Alumni 1] — Now at [Institution/Company]
-- [Alumni 2] — Graduate Program at [University]

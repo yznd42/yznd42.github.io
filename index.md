@@ -11,7 +11,7 @@ show_header: true
 I am a Teaching Assistant Professor at the School of Information Sciences at the University of Illinois Urbana-Champaign (UIUC), where I also serve as a faculty affiliate of the Illinois Informatics Institute, the Center for Health Informatics, and the Social Sensing & Intelligence Lab. Previously, I was a Postdoctoral Research Associate at UIUC and a W. J. Cody Research Associate at Argonne National Laboratory. I received my Ph.D. in Computer Science and Engineering from the University of Notre Dame, an M.S. in Data Science from Indiana University Bloomington, and a B.S. in Software Engineering from Wuhan University.
 
 
-## Research Opportunities
+## Prospective Students
 
 
   I will be joining Miami University as a tenure-track Assistant Professor in the Department of Computer Science and Software Engineering starting in Fall 2025.
