@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} | {{ site.affiliation }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,7 +11,7 @@
     <meta name="keywords" content="{{ site.keywords }}">
     {% endif %}
     {% if site.canonical %}
-    <link rel="canonical" href="{{ site.canonical }}"/>
+    <link rel="canonical" href="{{ site.canonical }}" />
     {% endif %}
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
@@ -73,7 +73,7 @@
         </div>
       </header>
 
-      <!-- ✅ Modern Clickable Navigation Bar -->
+      <!-- ✅ Modern, clickable nav bar -->
       <nav style="padding: 12px 0; border-bottom: 1px solid #ccc; z-index: 100; position: relative;">
         <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 20px;">
           <li><a href="/" style="text-decoration: none; font-weight: 500; color: inherit;">Home</a></li>
