@@ -35,9 +35,10 @@
   </head>
 
   <body>
-    <div class="wrapper">
+    <!-- ✅ Full-width wrapper but content constrained to nav bar width -->
+    <div class="wrapper-simple">
 
-      <!-- ✅ Nav bar kept -->
+      <!-- ✅ Nav bar -->
       <nav style="
         background-color: #f8f9fa;
         padding: 12px 20px;
@@ -46,6 +47,9 @@
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
         z-index: 100;
         position: relative;
+        max-width: 860px;
+        margin-left: auto;
+        margin-right: auto;
       ">
         <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 24px;">
           <li><a href="{{ site.baseurl }}/" class="nav-link">Home</a></li>
@@ -54,8 +58,8 @@
         </ul>
       </nav>
 
-      <!-- ✅ Just the page content -->
-      <section>
+      <!-- ✅ Content aligned with nav -->
+      <section style="max-width: 860px; margin: 20px auto; padding-left: 20px; padding-right: 20px;">
         {{ content }}
 
         {% if site.enable_footnote %}
