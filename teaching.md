@@ -83,3 +83,13 @@ show_header: true
     <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
   </ul>
 </div>
+
+
+<div class="teaching-univ"><autocolor>Ohio State University</autocolor></div>
+
+<div class="teaching-semester">
+  <div><autocolor>Fall 2022</autocolor></div>
+  <ul class="teaching-course">
+    <li><autocolor>CSE5559 AI for Visualization (Guest Lecture)</autocolor></li>
+  </ul>
+</div>
