@@ -36,35 +36,45 @@
 
   <body>
 
-    <!-- ✅ Nav bar aligned left -->
-    <nav style="
-      background-color: #f8f9fa;
-      padding: 12px 20px;
-      margin-top: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-      z-index: 100;
-      position: relative;
-    ">
-      <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 24px;">
-        <li><a href="{{ site.baseurl }}/" class="nav-link">Home</a></li>
-        <li><a href="{{ site.baseurl }}/publications/" class="nav-link">Publications</a></li>
-        <li><a href="{{ site.baseurl }}/teaching-and-services/" class="nav-link">Teaching & Services</a></li>
-      </ul>
-    </nav>
+    <!-- ✅ Shared bounded container -->
+    <div class="container">
 
-    <!-- ✅ Content aligned left to match nav -->
-    <section style="padding-left: 20px; padding-right: 20px; padding-top: 20px;">
-      {{ content }}
+      <!-- ✅ Nav bar -->
+      <nav style="
+        background-color: #f8f9fa;
+        padding: 12px 20px;
+        margin-top: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        z-index: 100;
+        position: relative;
+      ">
+        <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 24px;">
+          <li><a href="{{ site.baseurl }}/" class="nav-link">Home</a></li>
+          <li><a href="{{ site.baseurl }}/publications/" class="nav-link">Publications</a></li>
+          <li><a href="{{ site.baseurl }}/teaching-and-services/" class="nav-link">Teaching & Services</a></li>
+        </ul>
+      </nav>
 
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank">Minimal Light</a> theme.</small></p>
-      {% endif %}
-    </section>
+      <!-- ✅ Main content aligned with nav bar text -->
+      <section style="padding-left: 20px; padding-right: 20px; padding-top: 20px;">
+        {{ content }}
 
-    <footer></footer>
+        {% if site.enable_footnote %}
+        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank">Minimal Light</a> theme.</small></p>
+        {% endif %}
+      </section>
 
+      <footer></footer>
+    </div>
+
+    <!-- ✅ CSS fixes -->
     <style>
+      .container {
+        max-width: 860px;
+        margin: 0 auto;
+      }
+
       .nav-link {
         text-decoration: none;
         font-weight: 600;
