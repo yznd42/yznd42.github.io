@@ -35,13 +35,14 @@
   </head>
 
   <body>
-    <!-- ✅ Shared container for nav and content -->
+
+    <!-- ✅ Shared container with max-width, no internal padding -->
     <div class="container">
 
-      <!-- ✅ Nav bar with tighter left padding -->
+      <!-- ✅ Nav bar, flush-left -->
       <nav style="
         background-color: #f8f9fa;
-        padding: 12px 12px;
+        padding: 12px 0;
         margin-top: 20px;
         border-radius: 8px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
@@ -55,8 +56,8 @@
         </ul>
       </nav>
 
-      <!-- ✅ Content aligned to match nav -->
-      <section style="padding-left: 12px; padding-right: 12px; padding-top: 20px;">
+      <!-- ✅ Content, flush-left to match nav -->
+      <section style="padding-top: 20px;">
         {{ content }}
 
         {% if site.enable_footnote %}
