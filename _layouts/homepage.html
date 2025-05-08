@@ -34,7 +34,7 @@
     {% endif %}
   </head>
 
-  <!-- ✅ Conditional body class: no-header on subpages -->
+  <!-- ✅ Add 'no-header' class if header is not shown -->
   <body class="{% unless page.show_header %}no-header{% endunless %}">
     <div class="wrapper">
 
@@ -120,14 +120,16 @@
         padding-bottom: 2px;
       }
 
-      /* ✅ Make content fill the space when header is hidden */
+      /* ✅ Key fix: make wrapper use full width on subpages */
       body.no-header .wrapper {
-        display: block;
+        max-width: 100%;
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
       }
 
-      body.no-header section {
-        margin-left: 0 !important;
-        padding-left: 0 !important;
+      body.no-header header {
+        display: none;
       }
     </style>
 
@@ -145,4 +147,3 @@
     {% endif %}
   </body>
 </html>
-
