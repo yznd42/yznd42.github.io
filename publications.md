@@ -3,7 +3,7 @@ layout: homepage
 title: Publications
 permalink: /publications/
 ---
-<div style="padding-left: 20px">
+<div class="align-left">
 ## Recent Publications
 
 For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
