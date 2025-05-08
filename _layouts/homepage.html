@@ -54,14 +54,7 @@
         </ul>
       </nav>
 
-      <section style="
-        margin-top: 20px;
-        margin-left: 0 !important;
-        padding-left: 20px !important;
-        padding-right: 20px;
-        max-width: 100% !important;
-        box-sizing: border-box;
-      ">
+      <section>
         {{ content }}
 
         {% if site.enable_footnote %}
@@ -87,15 +80,27 @@
         padding-bottom: 2px;
       }
 
+      .wrapper {
+        margin: 0;
+        padding: 0;
+        max-width: 100%;
+        box-sizing: border-box;
+      }
+
+      body.no-header {
+        margin: 0;
+        padding: 0;
+      }
+
       body.no-header .wrapper {
         display: block;
       }
 
-      /* Overriding default section padding to match nav bar */
       body.no-header section {
-        margin-left: 0 !important;
-        padding-left: 20px !important;
+        margin: 0;
+        padding-left: 20px;
         padding-right: 20px;
+        box-sizing: border-box;
       }
     </style>
 
