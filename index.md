@@ -1,5 +1,8 @@
 ---
 layout: homepage
+title: Home
+permalink: /
+show_header: true
 ---
 
 ## About Me
