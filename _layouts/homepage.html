@@ -34,7 +34,8 @@
     {% endif %}
   </head>
 
-  <body>
+  <!-- ✅ Conditional body class: no-header on subpages -->
+  <body class="{% unless page.show_header %}no-header{% endunless %}">
     <div class="wrapper">
 
       {% if page.show_header %}
@@ -118,6 +119,16 @@
         border-bottom: 2px solid #007acc;
         padding-bottom: 2px;
       }
+
+      /* ✅ Make content fill the space when header is hidden */
+      body.no-header .wrapper {
+        display: block;
+      }
+
+      body.no-header section {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+      }
     </style>
 
     <script src="{{ site.baseurl }}/assets/js/scale.fix.js"></script>
@@ -134,3 +145,4 @@
     {% endif %}
   </body>
 </html>
+
