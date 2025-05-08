@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Teaching and Services
-permalink: /teaching-and-services/
+title: Teaching
+permalink: /teaching/
 show_header: true
 ---
 

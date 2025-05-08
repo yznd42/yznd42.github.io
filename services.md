@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Group
-permalink: /group/
+title: Services
+permalink: /services/
 show_header: true
 ---
 
