@@ -34,7 +34,7 @@
     {% endif %}
   </head>
 
-  <body class="{% unless page.show_header %}no-header{% endunless %}">
+  <body class="no-header">
     <div class="wrapper">
 
       <nav style="
@@ -54,7 +54,7 @@
         </ul>
       </nav>
 
-      <section>
+      <section style="padding: 0 20px; margin-top: 20px;">
         {{ content }}
 
         {% if site.enable_footnote %}
