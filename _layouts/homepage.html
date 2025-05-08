@@ -76,12 +76,20 @@
         </div>
       </header>
 
-      <!-- ✅ Nav bar with baseurl -->
-      <nav style="padding: 12px 0; border-bottom: 1px solid #ccc; z-index: 100; position: relative;">
-        <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 20px;">
-          <li><a href="{{ site.baseurl }}/" style="text-decoration: none; font-weight: 500; color: inherit;">Home</a></li>
-          <li><a href="{{ site.baseurl }}/publications/" style="text-decoration: none; font-weight: 500; color: inherit;">Publications</a></li>
-          <li><a href="{{ site.baseurl }}/teaching-and-services/" style="text-decoration: none; font-weight: 500; color: inherit;">Teaching & Services</a></li>
+      <!-- ✨ Clearer styled navigation bar -->
+      <nav style="
+        background-color: #f8f9fa;
+        padding: 12px 20px;
+        margin-top: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        z-index: 100;
+        position: relative;
+      ">
+        <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 24px;">
+          <li><a href="{{ site.baseurl }}/" class="nav-link">Home</a></li>
+          <li><a href="{{ site.baseurl }}/publications/" class="nav-link">Publications</a></li>
+          <li><a href="{{ site.baseurl }}/teaching-and-services/" class="nav-link">Teaching & Services</a></li>
         </ul>
       </nav>
 
@@ -96,12 +104,20 @@
       <footer></footer>
     </div>
 
+    <!-- 🖌 Style for nav links -->
     <style>
-      nav ul li a:hover {
+      .nav-link {
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1rem;
+        color: #333;
+        transition: color 0.2s ease, border-bottom 0.2s ease;
+      }
+
+      .nav-link:hover {
         color: #007acc;
         border-bottom: 2px solid #007acc;
         padding-bottom: 2px;
-        transition: all 0.2s ease;
       }
     </style>
 
