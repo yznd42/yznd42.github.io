@@ -17,4 +17,4 @@ Motivated by the complementary yet distinct strengths of AI and HI, my research 
 - The *calibration* thrust addresses adaptability, robustness, and cross-domain generalization by integrating AI and human intelligence through collective intelligence frameworks, ensuring alignment with diverse and dynamic domain requirements.
 - The *interaction* thrust fosters seamless collaboration between humans and AI, integrating small and large language models with HI to maintain explainability, interpretability, and responsiveness in high-stakes applications.
 
-For a comprehensive list of my scholarly contributions, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
+For a comprehensive list of my research papers, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
