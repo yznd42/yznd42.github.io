@@ -14,12 +14,10 @@
     <link rel="canonical" href="{{ site.canonical }}" />
     {% endif %}
 
-    <!-- Favicon -->
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.baseurl }}/{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.baseurl }}/{{ site.favicon }}" type="image/png" />
     <script src="{{ site.baseurl }}/assets/js/favicon-switcher.js" type="application/javascript"></script>
 
-    <!-- Styles -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
     {% if site.font == "Sans Serif" %}
@@ -37,7 +35,7 @@
   </head>
 
   <body>
-    <div class="wrapper">
+    <div class="{% if page.show_header %}wrapper{% else %}fullpage{% endif %}">
 
       {% if page.show_header %}
       <header>
@@ -79,7 +77,7 @@
       </header>
       {% endif %}
 
-      <!-- ✨ Clear and styled navigation bar -->
+      <!-- Navigation Bar -->
       <nav style="
         background-color: #f8f9fa;
         padding: 12px 20px;
@@ -107,7 +105,7 @@
       <footer></footer>
     </div>
 
-    <!-- Style for nav links -->
+    <!-- Custom Styles -->
     <style>
       .nav-link {
         text-decoration: none;
@@ -121,6 +119,17 @@
         color: #007acc;
         border-bottom: 2px solid #007acc;
         padding-bottom: 2px;
+      }
+
+      .fullpage {
+        max-width: 100%;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 2rem;
+      }
+
+      .fullpage section {
+        padding-top: 1rem;
       }
     </style>
 
