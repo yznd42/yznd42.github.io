@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: simplepage
 title: Publications
 permalink: /publications/
 ---
