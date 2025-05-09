@@ -7,7 +7,7 @@ show_header: true
 
 ## Current Research Theme
 
-<img src="{{ site.baseurl }}/assets/img/overall_research.jpg" alt="Human-AI Collaboration" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 50%; height: auto;">
+<img src="{{ site.baseurl }}/assets/img/overall_research.jpg" alt="Human-AI Collaboration" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 45%; height: auto;">
 
 My current research centers on designing collaborative frameworks that integrate Artificial Intelligence (AI), particularly Large Language Models (LLMs), with human intelligence (HI) to tackle complex, real-world problems in social contexts. Human intelligence contributes unique capabilities such as reasoning, problem-solving, abstract thinking, and the ability to learn from experience. These attributes provide valuable context, domain expertise, and human-centered insights essential for understanding the intricate social and environmental factors that shape societies. Conversely, AI excels at processing large-scale data, identifying latent patterns, and making predictions, offering scalability and computational power for addressing complex issues.
 
