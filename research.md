@@ -23,6 +23,8 @@ Motivated by the complementary yet distinct strengths of AI and HI, my research 
 For a comprehensive list of my research papers, please visit my <a href="https://scholar.google.com/citations?user=uq55RBsAAAAJ&hl=en">Google Scholar profile</a>.
 
 
+  <strong>[IJCAI]</strong> R. Zong, Y. Zhang, L. Shang, F. Stinar, N. Bosch, D. Wang. Bidirectional Human–AI Collaboration for Equitable Student Performance Prediction via Deep Uncertainty Learning. <i>International Joint Conference on Artificial Intelligence</i>,  Montreal, Canada, 2025.
+
 <strong>[ICWSM]</strong> R. Zong, Y. Zhang, D. Wang. Impowering LLMs to Synthesize AI and Human Intelligence for Explainable Public Health Misinformation Detection on Social Media. <i>International AAAI Conference on Web and Social Media</i>, Copenhagen, Denmark, 2025.
 
 <strong>[AAAI]</strong> L. Shang, B. Chen, S. Liu,  Y. Zhang, R. Zong, A. Vora, X. Cai, N. Wei, D. Wang. SIDE: Socially Informed Drought Estimation Toward Understanding Societal Impact Dynamics of Environmental Crisis. <i>AAAI Conference on Artificial Intelligence</i>, Philadelphia, Pennsylvania, 2025.
