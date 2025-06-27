@@ -21,20 +21,20 @@ I am an Assistant Professor in the Department of Computer Science and Software E
 
 
 ## Research Interests
-<h4 style="margin:0 10px 0;">Human-AI/LLM Collaboration</h4>
+<h4 style="margin:0 10px 0;">Human-Generative AI/LLM Collaboration</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Human-AI alignment and collaboration in generative models</autocolor></li>
   <li><autocolor>Collaborative neural architecture and hyperparameter searh with human-AI interaction</autocolor></li>
-  <li><autocolor>Development of Co-Learning Frameworks for Integrating Human Intelligence with AI/LLM</autocolor></li>
+  <li><autocolor>Development of Co-Learning Frameworks for Integrating Human Intelligence with Generative AI/LLM</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">AI/LLM Modeling Challenges</h4>
+<h4 style="margin:0 10px 0;">Generative AI/LLM Modeling Challenges</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Addressing data sparsity in AI/LLM models and enhancing learning from limited data</autocolor></li>
-  <li><autocolor>Tackling information multimodality for more comprehensive AI/LLM understanding</autocolor></li>
-    <li><autocolor>Ensuring the trustworthiness and universality of AI/LLM models across diverse applications</autocolor></li>
+  <li><autocolor>Addressing data sparsity in Generative AI/LLM models and enhancing learning from limited data</autocolor></li>
+  <li><autocolor>Tackling information multimodality for more comprehensive Generative AI/LLM understanding</autocolor></li>
+    <li><autocolor>Ensuring the trustworthiness and universality of Generative AI/LLM models across diverse applications</autocolor></li>
 </ul>
 
 
