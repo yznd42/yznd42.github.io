@@ -5,7 +5,7 @@ permalink: /research/
 show_header: true
 ---
 
-## Human-in-the-Loop Generative AI Lab
+## Human-Centered Generative AI Lab
 
 <img src="{{ site.baseurl }}/assets/img/overall_research.jpg" alt="Human-AI Collaboration" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 45%; height: auto;">
 
