@@ -20,7 +20,7 @@ Motivated by the complementary yet distinct strengths of GenAI and HI, our lab's
 ## Recent Publications 
 
 
-For a comprehensive list of our lab's research papers, please visit my <a href="https://scholar.google.com/citations?user=egeD-DMAAAAJ">Google Scholar profile</a>.
+For a comprehensive list of the research papers, please visit my <a href="https://scholar.google.com/citations?user=egeD-DMAAAAJ">Google Scholar profile</a>.
   
   <strong>[IJCAI]</strong> R. Zong, Y. Zhang, L. Shang, F. Stinar, N. Bosch, D. Wang. Bidirectional Human–AI Collaboration for Equitable Student Performance Prediction via Deep Uncertainty Learning. <i>International Joint Conference on Artificial Intelligence</i>,  Montreal, Canada, 2025.
 
