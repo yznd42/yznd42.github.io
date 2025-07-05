@@ -14,7 +14,7 @@ I am an Assistant Professor in the Department of Computer Science and Software E
 ## Prospective Students
 
 
- We have <span style="color: red;"> fully funded openings for Ph.D. students in Computer Science</span>, and we also welcome <span style="color: red;">all students interested in contributing to our ongoing research projects through independent study or guided research experiences</span>.
+ We have <span style="color: red;"> fully funded openings for Ph.D./M.S. students in Computer Science</span>, and we also welcome <span style="color: red;">all students interested in collaborating or contributing to our ongoing research projects through independent study or guided research experiences</span>.
   If you are interested, please feel free to email me your CV and/or research statements at <a href="mailto:zhang981@miamioh.edu">zhang981@miamioh.edu</a>.
 
 
