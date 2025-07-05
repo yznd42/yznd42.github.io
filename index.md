@@ -39,7 +39,7 @@ I hold a Ph.D. in Computer Science and Engineering from the University of Notre 
     <li><autocolor>Ensuring the trustworthiness and universality of Generative AI/LLM models across diverse applications</autocolor></li>
 </ul>
 
-You can learn more about my lab and research at the [Human-Centered Generative AI Lab](https://yznd42.github.io/research/).
+You can learn more about our lab and research at the [Human-Centered Generative AI Lab](https://yznd42.github.io/research/).
 
 
 ## Awards and Honors
