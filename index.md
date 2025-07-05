@@ -8,7 +8,7 @@ show_header: true
 ## Biography
 
 
-I am an Assistant Professor in the Department of Computer Science and Software Engineering at  [Miami University](https://miamioh.edu/), beginning in Fall 2025. Prior to this, I served as a Teaching Assistant Professor at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). I was also a Postdoctoral Research Associate at UIUC and a W. J. Cody Research Associate at [Argonne National Laboratory](https://www.anl.gov/). I hold a Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/), an M.S. in Data Science from [Indiana University Bloomington](https://www.iu.edu/), and a B.E. in Software Engineering from [Wuhan University](https://en.whu.edu.cn/).
+I am an Assistant Professor in the Department of Computer Science and Software Engineering at Miami University, beginning in Fall 2025. Prior to this, I served as a Teaching Assistant Professor at the University of Illinois Urbana-Champaign (UIUC). I was also a Postdoctoral Research Associate at UIUC and a W. J. Cody Research Associate at Argonne National Laboratory. I hold a Ph.D. in Computer Science and Engineering from the University of Notre Dame, an M.S. in Data Science from Indiana University Bloomington, and a B.E. in Software Engineering from Wuhan University.
 
 
 ## Prospective Students
