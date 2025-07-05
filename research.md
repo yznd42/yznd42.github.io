@@ -5,13 +5,13 @@ permalink: /research/
 show_header: true
 ---
 
-## Human-Centered Generative AI Research Group
+## Human-Centered Generative AI Lab
 
 <img src="{{ site.baseurl }}/assets/img/overall_research.jpg" alt="Human-AI Collaboration" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 45%; height: auto;">
 
-Our group's current research centers on designing collaborative frameworks that integrate Generative Artificial Intelligence (GenAI), particularly Large Language Models (LLMs), with human intelligence (HI) to tackle complex, real-world problems in social contexts. Human intelligence contributes unique capabilities such as reasoning, problem-solving, abstract thinking, and the ability to learn from experience. These attributes provide valuable context, domain expertise, and human-centered insights essential for understanding the intricate social and environmental factors that shape societies. Conversely, GenAI excels at processing large-scale data, identifying latent patterns, and making predictions, offering scalability and computational power for addressing complex issues.
+Our lab's current research centers on designing collaborative frameworks that integrate Generative Artificial Intelligence (GenAI), particularly Large Language Models (LLMs), with human intelligence (HI) to tackle complex, real-world problems in social contexts. Human intelligence contributes unique capabilities such as reasoning, problem-solving, abstract thinking, and the ability to learn from experience. These attributes provide valuable context, domain expertise, and human-centered insights essential for understanding the intricate social and environmental factors that shape societies. Conversely, GenAI excels at processing large-scale data, identifying latent patterns, and making predictions, offering scalability and computational power for addressing complex issues.
 
-Motivated by the complementary yet distinct strengths of GenAI and HI, our group's research is built upon three core thrusts: human-AI collaborative *design*, *calibration*, and *interaction*.
+Motivated by the complementary yet distinct strengths of GenAI and HI, our lab's research is built upon three core thrusts: human-AI collaborative *design*, *calibration*, and *interaction*.
 
 - The *design* thrust leverages human-in-the-loop mechanisms to optimize neural architectures and hyperparameters efficiently, focusing on adaptive solutions for resource-constrained scenarios such as disaster response and urban monitoring.
 - The *calibration* thrust addresses adaptability, robustness, and cross-domain generalization by integrating GenAI and human intelligence through collective intelligence frameworks, ensuring alignment with diverse and dynamic domain requirements.
