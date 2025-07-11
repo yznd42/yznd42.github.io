@@ -17,7 +17,7 @@ Motivated by the complementary yet distinct strengths of GenAI and HI, our lab's
 - The *calibration* thrust addresses adaptability, robustness, and cross-domain generalization by integrating GenAI and human intelligence through collective intelligence frameworks, ensuring alignment with diverse and dynamic domain requirements.
 - The *interaction* thrust fosters seamless collaboration between humans and GenAI, integrating small and large language models with HI to maintain explainability, interpretability, and responsiveness in high-stakes applications.
 
-## New Book on Human-AI Collaboration in the Generative AI Era
+## New Book on Human-AI Collaboration in GenAI Era
 
 <img src="{{ site.baseurl }}/assets/img/978-3-031-90080-8.webp" alt="Social Intelligence Book Cover" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 30%; height: auto;">
 
