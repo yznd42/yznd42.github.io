@@ -18,10 +18,11 @@ Motivated by the complementary yet distinct strengths of GenAI and HI, our lab's
 - The *interaction* thrust fosters seamless collaboration between humans and GenAI, integrating small and large language models with HI to maintain explainability, interpretability, and responsiveness in high-stakes applications.
 
 ## New Book on Human-AI Collaboration in GenAI Era
+**<a href="https://link.springer.com/book/10.1007/978-3-031-90080-8" target="_blank">Social Intelligence: The New Frontier of Integrating Human Intelligence and Artificial Intelligence in Social Space</a>, 1st Edition, Springer Nature, 2025**  
 
 <img src="{{ site.baseurl }}/assets/img/978-3-031-90080-8.webp" alt="Social Intelligence Book Cover" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 30%; height: auto;">
 
-**<a href="https://link.springer.com/book/10.1007/978-3-031-90080-8" target="_blank">Social Intelligence: The New Frontier of Integrating Human Intelligence and Artificial Intelligence in Social Space</a>, 1st Edition, Springer Nature, 2025**  
+
 
 
 **About this book:**  Given the rise of AI and the advent of online collaboration opportunities (e.g., social media, crowdsourcing), emerging research has started to investigate the integration of AI and human intelligence, especially in a collaborative social context. This creates unprecedented challenges and opportunities in the field of Social Intelligence (SI), where the goal is to explore the collective intelligence of both humans and machines by understanding their complementary strengths and interactions in the social space.
