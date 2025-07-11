@@ -29,11 +29,11 @@ Motivated by the complementary yet distinct strengths of GenAI and HI, our lab's
     <br><strong>Publication Year:</strong> 2025  
 
    <p style="margin-top: 10px;">
-    This book explores the emerging interdisciplinary field of <em>social intelligence</em>, focusing on the synergistic integration of human and artificial intelligence in collaborative social contexts. Addressing both challenges and opportunities, it presents a series of human-centered AI techniques including multimodal learning, robust modeling, explainability, and fairness.
+Given the rise of AI and the advent of online collaboration opportunities (e.g., social media, crowdsourcing), emerging research has started to investigate the integration of AI and human intelligence, especially in a collaborative social context. This creates unprecedented challenges and opportunities in the field of Social Intelligence (SI), where the goal is to explore the collective intelligence of both humans and machines by understanding their complementary strengths and interactions in the social space.
     </p>
 
     <p>
-    Several frameworks for human-AI collaborative learning are introduced, demonstrating how combining crowd wisdom and machine intelligence can overcome the limitations of standalone approaches. Real-world case studies showcase applications across healthcare, misinformation, and crisis response.
+  In this book, a set of novel human-centered AI techniques are presented to address the challenges of social intelligence applications, including multimodal approaches, robust and generalizable frameworks, and socially empowered explainable AI designs. The book then presents several human-AI collaborative learning frameworks that jointly integrate the strengths of crowd wisdom and AI to address the limitations inherent in standalone solutions. The book also emphasizes pressing societal issues in the realm of social intelligence, such as fairness, bias, and privacy. Real-world case studies from different applications in social intelligence are presented to demonstrate the effectiveness of the proposed solutions in achieving substantial performance gains in various aspects, such as prediction accuracy, model generalizability and explainability, algorithmic fairness, and system robustness.
     </p>
   </div>
 </div>
