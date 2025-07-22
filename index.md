@@ -42,7 +42,7 @@ You can learn more about our lab and research at the [Human-Centered Generative 
 
 ## Awards and Honors
 
-- **[2023, 2024]** Teachers Ranked as Excellent, University of Illinois
+- **[2023, 2024, 2025]** Teachers Ranked as Excellent, University of Illinois
 - **[2022]** Best Paper Award, ACM/IEEE ASONAM
 - **[2022]** Best Paper Honorable Mention, IEEE SMARTCOMP
 - **[2021]** Outstanding Graduate Research Assistant Award, University of Notre Dame 
