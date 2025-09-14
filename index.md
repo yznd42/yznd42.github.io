@@ -50,4 +50,4 @@ You can learn more about our lab and research at the [Human-Centered Generative 
 - **[2020]** W. J. Cody Associate Award, Argonne National Laboratory
 - **[2018, 2019]** Conference Travel Award, IEEE
 - **[2015]** Data Science Scholar Fellowship, Indiana Unviersity
-- **[2010, 2011]** First Class Scholarship, Wuhan Unviersity
+
