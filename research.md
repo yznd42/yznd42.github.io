@@ -5,17 +5,11 @@ permalink: /research/
 show_header: true
 ---
 
-## Human-Centered Generative AI Lab
+## Human-Centered Quantum Generative AI (HQ-GenAI) Lab
 
 <img src="{{ site.baseurl }}/assets/img/overall_research.jpg" alt="Human-AI Collaboration" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 45%; height: auto;">
 
-Our lab's current research centers on designing collaborative frameworks that integrate Generative Artificial Intelligence (GenAI), particularly Large Language Models (LLMs), with human intelligence (HI) to tackle complex, real-world problems in social contexts. Human intelligence contributes unique capabilities such as reasoning, problem-solving, abstract thinking, and the ability to learn from experience. These attributes provide valuable context, domain expertise, and human-centered insights essential for understanding the intricate social and environmental factors that shape societies. Conversely, GenAI excels at processing large-scale data, identifying latent patterns, and making predictions, offering scalability and computational power for addressing complex issues.
-
-Motivated by the complementary yet distinct strengths of GenAI and HI, our lab's research is built upon three core thrusts: human-AI collaborative *design*, *calibration*, and *interaction*.
-
-- The *design* thrust leverages human-in-the-loop mechanisms to optimize neural architectures and hyperparameters efficiently, focusing on adaptive solutions for resource-constrained scenarios such as disaster response and urban monitoring.
-- The *calibration* thrust addresses adaptability, robustness, and cross-domain generalization by integrating GenAI and human intelligence through collective intelligence frameworks, ensuring alignment with diverse and dynamic domain requirements.
-- The *interaction* thrust fosters seamless collaboration between humans and GenAI, integrating small and large language models with HI to maintain explainability, interpretability, and responsiveness in high-stakes applications.
+Our lab’s research focuses on developing collaborative intelligence frameworks that integrate Generative Artificial Intelligence (GenAI)—particularly Large Language Models (LLMs)—and quantum computing with human intelligence (HI) to address complex, real-world challenges in social and scientific domains. Human intelligence offers unique strengths in reasoning, abstraction, and contextual understanding, enabling nuanced interpretation of social, cultural, and environmental factors that shape human behavior and decision-making. In contrast, GenAI and quantum computing provide unprecedented scalability and computational power: GenAI uncovers latent patterns and generates adaptive insights from vast datasets, while quantum computing accelerates optimization and simulation processes beyond classical limits. Together, these complementary capabilities form the foundation for human-centered, quantum-powered generative intelligence aimed at solving problems that transcend disciplinary boundaries.
 
 ## New Book on Human-AI Collaboration in GenAI Era
 **<a href="https://link.springer.com/book/10.1007/978-3-031-90080-8" target="_blank">Social Intelligence: The New Frontier of Integrating Human Intelligence and Artificial Intelligence in Social Space</a>**, 1st Edition, Springer Nature, 2025, ISBN: 978-3-031-90080-8  

@@ -37,6 +37,15 @@ If you are interested, please feel free to email me your CV and/or research stat
     <li><autocolor>Ensuring the trustworthiness and universality of Generative AI/LLM models across diverse applications</autocolor></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Quantum–GPU Hybrid Modeling</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>Bridging computational paradigms between quantum processors and GPU-based deep learning frameworks for efficient co-processing</autocolor></li>
+  <li><autocolor>Designing scalable hybrid architectures that balance quantum advantage with classical parallelism</autocolor></li>
+  <li><autocolor>Mitigating noise, decoherence, and interoperability challenges in Quantum–GPU co-optimization pipelines</autocolor></li>
+</ul>
+
+
 You can learn more about our lab and research at the [Human-Centered Generative AI Lab](https://yznd42.github.io/research/).
 
 
