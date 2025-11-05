@@ -21,28 +21,26 @@ If you are interested, please feel free to email me your CV and/or research stat
 
 
 ## Research Interests
-<h4 style="margin:0 10px 0;">Human-Generative AI/LLM Collaboration</h4>
 
+<h4 style="margin:0 10px 0;">Human–Generative AI/LLM Collaboration</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Human-AI alignment and collaboration in generative models</autocolor></li>
-  <li><autocolor>Collaborative neural architecture and hyperparameter searh with human-AI interaction</autocolor></li>
-  <li><autocolor>Development of Co-Learning Frameworks for Integrating Human Intelligence with Generative AI/LLM</autocolor></li>
+  <li><autocolor>Aligning human reasoning with generative AI models</autocolor></li>
+  <li><autocolor>Designing interactive neural and hyperparameter search frameworks</autocolor></li>
+  <li><autocolor>Enabling bidirectional learning between humans and AI systems</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Generative AI/LLM Modeling Challenges</h4>
-
+<h4 style="margin:0 10px 0;">Generative AI/LLM Modeling</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Addressing data sparsity in Generative AI/LLM models and enhancing learning from limited data</autocolor></li>
-  <li><autocolor>Tackling information multimodality for more comprehensive Generative AI/LLM understanding</autocolor></li>
-    <li><autocolor>Ensuring the trustworthiness and universality of Generative AI/LLM models across diverse applications</autocolor></li>
+  <li><autocolor>Enhancing model learning under sparse and limited data</autocolor></li>
+  <li><autocolor>Integrating multimodal inputs for unified generative understanding</autocolor></li>
+  <li><autocolor>Ensuring robustness, fairness, and trust across domains</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Quantum–GPU Hybrid Modeling</h4>
-
+<h4 style="margin:0 10px 0;">Quantum–GPU Hybrid Design</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Bridging computational paradigms between quantum processors and GPU-based deep learning frameworks for efficient co-processing</autocolor></li>
-  <li><autocolor>Designing scalable hybrid architectures that balance quantum advantage with classical parallelism</autocolor></li>
-  <li><autocolor>Mitigating noise, decoherence, and interoperability challenges in Quantum–GPU co-optimization pipelines</autocolor></li>
+  <li><autocolor>Integrating quantum processors with GPU-based deep learning</autocolor></li>
+  <li><autocolor>Developing scalable quantum–classical hybrid architectures</autocolor></li>
+  <li><autocolor>Mitigating noise, decoherence, and interoperability issues</autocolor></li>
 </ul>
 
 
