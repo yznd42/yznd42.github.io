@@ -46,7 +46,7 @@ If you are interested, please feel free to email me your CV and/or research stat
 </ul>
 
 
-You can learn more about our lab and research at the [Human-Centered Generative AI Lab](https://yznd42.github.io/research/).
+You can learn more about our lab and research at the [Human-Centered Quantum Generative AI Lab](https://yznd42.github.io/research/).
 
 
 ## Awards and Honors
