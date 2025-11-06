@@ -14,7 +14,7 @@ I am an Assistant Professor in the Department of Computer Science and Software E
 ## Prospective Students
 
 
-We currently have openings for Ph.D. students in Computer Science and also welcome undergraduate and master’s students interested in participting our ongoing research through independent study or guided research projects. If you are interested, please feel free to email me your CV and/or research statement at <a href="mailto:zhang981@miamioh.edu">zhang981@miamioh.edu</a>.
+We currently have openings for [Ph.D. students in Computer Science](https://programs.miamioh.edu/programs/computer-science-ph-d/) and also welcome undergraduate and master’s students interested in participting our [ongoing research](https://yznd42.github.io/research/) through independent study or guided research projects. If you are interested, please feel free to email me your CV and/or research statement at <a href="mailto:zhang981@miamioh.edu">zhang981@miamioh.edu</a>.
 
 
 
