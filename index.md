@@ -22,7 +22,7 @@ If you are interested, please feel free to email me your CV and/or research stat
 
 ## Research Interests
 
-<h4 style="margin:0 10px 0;">Human–Generative AI/LLM Collaboration</h4>
+<h4 style="margin:0 10px 0;">Human–Generative AI/LLM Alignment</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor>Aligning human reasoning with generative AI models</autocolor></li>
   <li><autocolor>Designing interactive neural and hyperparameter search frameworks</autocolor></li>

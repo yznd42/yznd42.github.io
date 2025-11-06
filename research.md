@@ -11,7 +11,7 @@ show_header: true
 
 Our lab’s research focuses on developing collaborative intelligence frameworks that integrate Generative Artificial Intelligence (GenAI)—particularly Large Language Models (LLMs)—and quantum computing with human intelligence (HI) to address complex, real-world challenges in social and scientific domains. Human intelligence offers unique strengths in reasoning, abstraction, and contextual understanding, enabling nuanced interpretation of social, cultural, and environmental factors that shape human behavior and decision-making. In contrast, GenAI and quantum computing provide unprecedented scalability and computational power: GenAI uncovers latent patterns and generates adaptive insights from vast datasets, while quantum computing accelerates optimization and simulation processes beyond classical limits. Together, these complementary capabilities form the foundation for human-centered, quantum-powered generative intelligence aimed at solving problems that transcend disciplinary boundaries.
 
-## New Book on Human-AI Collaboration in GenAI Era
+## New Book on Human-AI Alignment in GenAI Era
 **<a href="https://link.springer.com/book/10.1007/978-3-031-90080-8" target="_blank">Social Intelligence: The New Frontier of Integrating Human Intelligence and Artificial Intelligence in Social Space</a>**, 1st Edition, Springer Nature, 2025, ISBN: 978-3-031-90080-8  
 
 <img src="{{ site.baseurl }}/assets/img/978-3-031-90080-8.webp" alt="Social Intelligence Book Cover" style="float: left; margin-right: 20px;  width: 30%; height: auto;">
