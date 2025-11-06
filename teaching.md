@@ -6,6 +6,11 @@ show_header: true
 ---
 
 ## Teaching
+<h4 style="margin:0 10px 0;">Spring 2026 (Miami Univeristy)</h4>
+<ul style="margin:0 0 5px;">
+  <li><autocolor>CSE 434/534 Generative Artificial Intelligence</autocolor></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Fall 2025 (Miami Univeristy)</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor>CSE 434/534 Generative Artificial Intelligence</autocolor></li>
