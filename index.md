@@ -21,7 +21,7 @@ We currently have openings for [Ph.D. students in Computer Science](https://prog
 
 ## Research Interests
 
-<h4 style="margin:0 10px 0;">Human–Generative AI/LLM Alignment</h4>
+<h4 style="margin:0 10px 0;">Human-Generative AI/LLM Alignment</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor>Aligning human reasoning with generative AI models</autocolor></li>
   <li><autocolor>Designing interactive neural and hyperparameter search frameworks</autocolor></li>
@@ -35,10 +35,10 @@ We currently have openings for [Ph.D. students in Computer Science](https://prog
   <li><autocolor>Ensuring robustness, fairness, and trust across domains</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Quantum–GPU Hybrid Design</h4>
+<h4 style="margin:0 10px 0;">Quantum-GPU Hybrid Design</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor>Integrating quantum processors with GPU-based deep learning</autocolor></li>
-  <li><autocolor>Developing scalable quantum–classical hybrid architectures</autocolor></li>
+  <li><autocolor>Developing scalable quantum-classical hybrid architectures</autocolor></li>
   <li><autocolor>Mitigating noise, decoherence, and interoperability issues</autocolor></li>
 </ul>
 
