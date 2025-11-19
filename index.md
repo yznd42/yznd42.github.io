@@ -47,7 +47,7 @@ You can learn more about our lab and research at the [Human-Centered Quantum Gen
 
 
 ## Awards and Honors
-- **[2025]** NSF OAC Core Award, National Science Foundation 
+- **[2025]** NSF OAC Core Research Award, National Science Foundation 
 - **[2023, 2024, 2025]** Teachers Ranked as Excellent, University of Illinois
 - **[2022]** Best Paper Award, ACM/IEEE ASONAM
 - **[2022]** Best Paper Honorable Mention, IEEE SMARTCOMP
