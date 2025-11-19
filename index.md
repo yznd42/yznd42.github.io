@@ -20,7 +20,7 @@ We currently have openings for [Ph.D. students in Computer Science](https://prog
 
 
 ## Research Interests
-<h3 style="margin:0 10px 0;">Generative AI, Deep Learning, Quantum Computing</h4>
+
 <h4 style="margin:0 10px 0;">Human-Generative AI/LLM Alignment</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor>Aligning human reasoning with generative AI models</autocolor></li>
