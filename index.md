@@ -54,6 +54,6 @@ You can learn more about our lab and research at the [Human-Centered Quantum Gen
 - **[2021]** Outstanding Graduate Research Assistant Award, University of Notre Dame 
 - **[2021]** Video Presentation Award, ACM/IEEE IWQoS
 - **[2020]** W. J. Cody Associate Award, Argonne National Laboratory
-- **[2018, 2019]** Conference Travel Award, IEEE
+- **[2018, 2019]** Conference Travel Award, IEEE BigData
 - **[2015]** Data Science Scholar Fellowship, Indiana Unviersity
 
