@@ -48,6 +48,7 @@ You can learn more about our lab and research at the [Human-Centered Quantum Gen
 
 ## Awards and Honors
 
+- **[2026]** NSF CyberTraining Award, National Science Foundation 
 - **[2026]** Best Dataset Paper Award, AAAI ICWSM
 - **[2026]** Rising Stars of Education, Dayton Business Journal 
 - **[2025]** NSF OAC Core Research Award, National Science Foundation 
