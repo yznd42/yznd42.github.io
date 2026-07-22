@@ -8,7 +8,7 @@ show_header: true
 ## Biography
 
 
-I am an Assistant Professor in the Department of Computer Science and Software Engineering at [Miami University](https://miamioh.edu/). Prior to this, I was a Postdoctoral Research Associate and Teaching Assistant Professor at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Additionally, I also worked as a W. J. Cody Research Associate at [Argonne National Laboratory](https://www.anl.gov/). I hold a Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/).
+I am an _Assistant Professor_ in the _Department of Computer Science and Software Engineering_ at [Miami University](https://miamioh.edu/). Prior to this, I was a _Postdoctoral Research Associate_ and _Teaching Assistant Professor_ at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Additionally, I also worked as a _W. J. Cody Research Associate_ at [Argonne National Laboratory](https://www.anl.gov/). I hold a Ph.D. in _Computer Science and Engineering_ from the [University of Notre Dame](https://www.nd.edu/).
 
 
 ## Prospective Students
