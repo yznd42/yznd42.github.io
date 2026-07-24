@@ -21,9 +21,8 @@ Our lab currently has multiple fully funded Research Assistant (RA) openings for
 
 ## Research Interests
 
-<h4 style="margin:0 10px 0;">Resaerch Interests</h4> Human-centered generative AI and LLM alignment; trustworthy and agentic AI; multimodal learning; AI for scientific discovery and healthcare; quantum-AI systems.
+<h4 style="margin:0 10px 0;">Resaerch Interests: Human-centered generative AI and LLM alignment; trustworthy and agentic AI; multimodal learning; AI for scientific discovery and healthcare; quantum-AI systems.</h4> 
 
-My research develops human-centered and trustworthy AI systems that learn from imperfect human feedback, limited data, and complex domain knowledge, with applications in scientific computing, healthcare, education, and societal decision-making.
 
 <h4 style="margin:0 10px 0;">Human–Generative AI Alignment</h4>
 <ul style="margin:0 0 5px;">
@@ -35,7 +34,7 @@ My research develops human-centered and trustworthy AI systems that learn from i
   <li><autocolor>Multimodal/agentic AI · limited-data learning · scientific and healthcare AI</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;"AI Systems & Quantum Computing</h4>
+<h4 style="margin:0 10px 0;">AI Systems & Quantum Computing</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor>Quantum-AI for scientific data · quantum-classical computing · efficient AI systems</autocolor></li>
 </ul>
