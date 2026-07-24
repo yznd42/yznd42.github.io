@@ -21,7 +21,6 @@ Our lab currently has multiple fully funded Research Assistant (RA) openings for
 
 ## Research Interests
 
-<h4 style="margin:0 10px 0;">Resaerch Interests: Human-centered generative AI and LLM alignment; trustworthy and agentic AI; multimodal learning; AI for scientific discovery and healthcare; quantum-AI systems.</h4> 
 
 
 <h4 style="margin:0 10px 0;">Human–Generative AI Alignment</h4>
