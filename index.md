@@ -14,32 +14,30 @@ I am an Assistant Professor in the [Department of Computer Science and Software 
 ## Prospective Students
 
 
-We currently have openings for [Ph.D. students in Computer Science](https://programs.miamioh.edu/programs/computer-science-ph-d/) and also welcome undergraduate and master’s students interested in participting our [ongoing research](https://yznd42.github.io/research/) through independent study or guided research projects. If you are interested, please feel free to email me your CV and/or research statement at <a href="mailto:zhang981@miamioh.edu">zhang981@miamioh.edu</a>.
+Our lab currently has multiple fully funded Research Assistant (RA) openings for [Ph.D. students in Computer Science](https://programs.miamioh.edu/programs/computer-science-ph-d/). Interested applicants are encouraged to email me their CV and/or research statement at <a href="mailto:zhang981@miamioh.edu">zhang981@miamioh.edu</a>.
 
 
 
 
 ## Research Interests
 
-<h4 style="margin:0 10px 0;">Human-Generative AI/LLM Alignment</h4>
+<h4 style="margin:0 10px 0;">Resaerch Interests</h4> Human-centered generative AI and LLM alignment; trustworthy and agentic AI; multimodal learning; AI for scientific discovery and healthcare; quantum-AI systems.
+
+My research develops human-centered and trustworthy AI systems that learn from imperfect human feedback, limited data, and complex domain knowledge, with applications in scientific computing, healthcare, education, and societal decision-making.
+
+<h4 style="margin:0 10px 0;">Human–Generative AI Alignment</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Aligning human reasoning with generative AI models</autocolor></li>
-  <li><autocolor>Designing interactive neural and hyperparameter search frameworks</autocolor></li>
-  <li><autocolor>Enabling bidirectional learning between humans and AI systems</autocolor></li>
+  <li><autocolor>Human-AI collaborative reasoning · LLM alignment from imperfect feedback · uncertainty-aware AI</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Generative AI/LLM Modeling</h4>
+<h4 style="margin:0 10px 0;">Trustworthy & Domain-Adaptive Generative AI</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Enhancing model learning under sparse and limited data</autocolor></li>
-  <li><autocolor>Integrating multimodal inputs for unified generative understanding</autocolor></li>
-  <li><autocolor>Ensuring robustness, fairness, and trust across domains</autocolor></li>
+  <li><autocolor>Multimodal/agentic AI · limited-data learning · scientific and healthcare AI</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Quantum-GPU Hybrid Design</h4>
+<h4 style="margin:0 10px 0;"AI Systems & Quantum Computing</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Integrating quantum processors with GPU-based deep learning</autocolor></li>
-  <li><autocolor>Developing scalable quantum-classical hybrid architectures</autocolor></li>
-  <li><autocolor>Mitigating noise, decoherence, and interoperability issues</autocolor></li>
+  <li><autocolor>Quantum-AI for scientific data · quantum-classical computing · efficient AI systems</autocolor></li>
 </ul>
 
 
