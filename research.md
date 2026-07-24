@@ -5,11 +5,11 @@ permalink: /research/
 show_header: true
 ---
 
-## RecursiveMind Lab
+## DeepFractal Lab
 
 <img src="{{ site.baseurl }}/assets/img/overall_research.jpg" alt="Human-AI Collaboration" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 45%; height: auto;">
 
-Our lab’s research focuses on developing collaborative intelligence frameworks that integrate Generative Artificial Intelligence (GenAI), particularly Large Language Models (LLMs), and quantum computing with human intelligence (HI) to address complex, real-world challenges in social and scientific domains. Human intelligence offers unique strengths in reasoning, abstraction, and contextual understanding, enabling nuanced interpretation of social, cultural, and environmental factors that shape human behavior and decision-making. In contrast, GenAI and quantum computing provide unprecedented scalability and computational power: GenAI uncovers latent patterns and generates adaptive insights from vast datasets, while quantum computing accelerates optimization and simulation processes beyond classical limits. Together, these complementary capabilities form the foundation for human-centered, quantum-powered generative intelligence aimed at solving problems that transcend disciplinary boundaries.
+Our lab develops human-centered and trustworthy AI systems that integrate generative AI, particularly large language models (LLMs), with human intelligence and emerging computing technologies. We focus on human–AI collaboration, reliable learning from imperfect feedback and limited data, and multimodal and agentic AI for scientific and societal applications. We also explore quantum–classical and GPU-accelerated computing to support complex scientific and healthcare problems. Our goal is to build collaborative intelligence systems that are reliable, adaptive, and capable of advancing scientific discovery and real-world decision-making.
 
 ## New Book on Human-AI Alignment in GenAI Era
 **<a href="https://link.springer.com/book/10.1007/978-3-031-90080-8" target="_blank">Social Intelligence: The New Frontier of Integrating Human Intelligence and Artificial Intelligence in Social Space</a>**, 1st Edition, Springer Nature, 2025, ISBN: 978-3-031-90080-8  

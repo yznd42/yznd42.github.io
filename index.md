@@ -39,7 +39,7 @@ Our lab currently has multiple fully funded Research Assistant (RA) openings for
 </ul>
 
 
-You can learn more about our lab and research at the [RecursiveMind Lab](https://yznd42.github.io/research/).
+You can learn more about our lab and research at the [DeepFractal Lab](https://yznd42.github.io/research/).
 
 
 ## Awards and Honors
