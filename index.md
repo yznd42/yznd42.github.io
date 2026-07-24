@@ -8,7 +8,7 @@ show_header: true
 ## Biography
 
 
-I am an <u>Assistant Professor</u> in the [Department of Computer Science and Software Engineering](https://miamioh.edu/cec/departments/computer-science-software-engineering/) at [Miami University](https://miamioh.edu/). Prior to this, I also worked at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) and  [Argonne National Laboratory](https://www.anl.gov/). I hold a Ph.D. in <u>Computer Science and Engineering</u> from the [University of Notre Dame](https://www.nd.edu/).
+I am an Assistant Professor in the [Department of Computer Science and Software Engineering](https://miamioh.edu/cec/departments/computer-science-software-engineering/) at [Miami University](https://miamioh.edu/). Prior to this, I also worked at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) and  [Argonne National Laboratory](https://www.anl.gov/). I hold a Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/).
 
 
 ## Prospective Students
