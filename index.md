@@ -62,53 +62,21 @@ For a comprehensive list of the research papers, please visit my <a href="https:
 
 
 ## Teaching
-<h4 style="margin:0 10px 0;">Spring 2027 (Miami Univeristy)</h4>
-<ul style="margin:0 0 5px;">
-  <li><autocolor>CSE 433/533 Deep Learning</autocolor></li>
 
-</ul>
+- \*\***[Spring 2027 (Miami Univeristy)]**\*\*  CSE 433/533 Deep Learning
 
-<h4 style="margin:0 10px 0;">Fall 2026 (Miami Univeristy)</h4>
-<ul style="margin:0 0 5px;">
-  <li><autocolor>CSE 627 Advanced Machine Learning</autocolor></li>
-  <li><autocolor>CSE 434/534 Generative Artificial Intelligence</autocolor></li>
-</ul>
+- \*\***[Fall 2026 (Miami Univeristy)]**\*\*  CSE 627 Advanced Machine Learning; CSE 434/534 Generative Artificial Intelligence
 
-<h4 style="margin:0 10px 0;">Spring 2026 (Miami Univeristy)</h4>
-<ul style="margin:0 0 5px;">
-  <li><autocolor>CSE 434/534 Generative Artificial Intelligence</autocolor></li>
-</ul>
+- \*\***[Spring 2026 (Miami Univeristy)]**\*\*  CSE 434/534 Generative Artificial Intelligence
 
-<h4 style="margin:0 10px 0;">Fall 2025 (Miami Univeristy)</h4>
-<ul style="margin:0 0 5px;">
-  <li><autocolor>CSE 434/534 Generative Artificial Intelligence</autocolor></li>
-</ul>
+- \*\***[Fall 2025 (Miami Univeristy)]**\*\*  CSE 434/534 Generative Artificial Intelligence
 
-<h4 style="margin:0 10px 0;">Spring 2025 (University of Illinois Urbana-Champaign)</h4>
-<ul style="margin:0 0 5px;">
-  <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
-  <li><autocolor>IS 327 Concepts of Machine Learning</autocolor></li>
-</ul>
+- \*\***[Spring 2025 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping; IS 327 Concepts of Machine Learning
 
-<h4 style="margin:0 10px 0;">Fall 2024 (University of Illinois Urbana-Champaign)</h4>
-<ul style="margin:0 0 5px;">
-  <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
-</ul>
+- \*\***[Fall 2024 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping
 
-<h4 style="margin:0 10px 0;">Spring 2024 (University of Illinois Urbana-Champaign)</h4>
-<ul style="margin:0 0 5px;">
-  <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
-  <li><autocolor>IS 327 Concepts of Machine Learning</autocolor></li>
-</ul>
+- \*\***[Spring 2024 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping; IS 327 Concepts of Machine Learning
 
-<h4 style="margin:0 10px 0;">Fall 2023 (University of Illinois Urbana-Champaign)</h4>
-<ul style="margin:0 0 5px;">
-  <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
-  <li><autocolor>IS 206 Introduction to Database Concepts and Applications</autocolor></li>
-</ul>
+- \*\***[Fall 2023 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping; IS 206 Introduction to Database Concepts and Applications
 
-<h4 style="margin:0 10px 0;">Spring 2023 (University of Illinois Urbana-Champaign)</h4>
-<ul style="margin:0 0 20px;">
-  <li><autocolor>IS 455 Database Design and Prototyping</autocolor></li>
-</ul>
-
+- \*\***[Spring 2023 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping
