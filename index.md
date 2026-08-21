@@ -45,7 +45,7 @@ For a comprehensive list of the research papers, please visit my <a href="https:
   
 
 
-## Awards and Honors
+## Awards and Fundings
 
 - **[2026]** NSF CyberTraining Award (~$1M in total funding), National Science Foundation 
 - **[2026]** Best Dataset Paper Award, AAAI ICWSM
