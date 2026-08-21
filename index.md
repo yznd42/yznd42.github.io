@@ -8,7 +8,7 @@ show_header: true
 ## Biography
 
 
-I am an Assistant Professor in the [Department of Computer Science and Software Engineering](https://miamioh.edu/cec/departments/computer-science-software-engineering/) at [Miami University](https://miamioh.edu/). Prior to this, I also worked at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) and  [Argonne National Laboratory](https://www.anl.gov/). I hold a Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/).
+I am an Assistant Professor in the [Department of Computer Science and Software Engineering](https://miamioh.edu/cec/departments/computer-science-software-engineering/) at [Miami University](https://miamioh.edu/). Prior to this, I also worked as a Postdoc at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) and a researcher [Argonne National Laboratory](https://www.anl.gov/). I hold a Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/).
 
 
 ## Prospective Students
@@ -63,20 +63,24 @@ For a comprehensive list of the research papers, please visit my <a href="https:
 
 ## Teaching
 
-- \*\***[Spring 2027 (Miami Univeristy)]**\*\*  CSE 433/533 Deep Learning
+<h4 style="margin:0 10px 0;">Miami University/h4>
 
-- \*\***[Fall 2026 (Miami Univeristy)]**\*\*  CSE 627 Advanced Machine Learning; CSE 434/534 Generative Artificial Intelligence
+- **[Spring 2027]**  CSE 433/533 Deep Learning
 
-- \*\***[Spring 2026 (Miami Univeristy)]**\*\*  CSE 434/534 Generative Artificial Intelligence
+- **[Fall 2026]**  CSE 627 Advanced Machine Learning; CSE 434/534 Generative Artificial Intelligence
 
-- \*\***[Fall 2025 (Miami Univeristy)]**\*\*  CSE 434/534 Generative Artificial Intelligence
+- **[Spring 2026]**  CSE 434/534 Generative Artificial Intelligence
 
-- \*\***[Spring 2025 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping; IS 327 Concepts of Machine Learning
+- **[Fall 2025]**  CSE 434/534 Generative Artificial Intelligence
 
-- \*\***[Fall 2024 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping
+<h4 style="margin:0 10px 0;"> University of Illinois Urbana-Champaign</h4>
 
-- \*\***[Spring 2024 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping; IS 327 Concepts of Machine Learning
+- **[Spring 2025]**  IS 455 Database Design and Prototyping; IS 327 Concepts of Machine Learning
 
-- \*\***[Fall 2023 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping; IS 206 Introduction to Database Concepts and Applications
+- **[Fall 2024]**  IS 455 Database Design and Prototyping
 
-- \*\***[Spring 2023 (University of Illinois Urbana-Champaign)]**\*\*  IS 455 Database Design and Prototyping
+- **[Spring 2024]**  IS 455 Database Design and Prototyping; IS 327 Concepts of Machine Learning
+
+- **[Fall 2023]**  IS 455 Database Design and Prototyping; IS 206 Introduction to Database Concepts and Applications
+
+- **[Spring 2023**  IS 455 Database Design and Prototyping
