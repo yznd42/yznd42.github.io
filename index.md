@@ -24,7 +24,7 @@ We currently has multiple fully funded Research Assistant (RA) openings for [Ph.
 <h4 style="margin:0 10px 0;">Data-Centric LLM/VLM Post-Training</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Develop data-centric post-training systems that integrate on-policy optimization (PPO, GRPO, and OPD), offline learning (SFT and DPO), and data-centric learning techniques (e.g., truth discovery, weak supervision, and fuzzy inference) to infer reliable supervision from noisy, conflicting, and heterogeneous human- and model-generated feedback.</autocolor></li>
+  <li><autocolor>Develop data-centric post-training systems that integrate on-policy optimization (PPO, GRPO, and OPD), offline learning (SFT and DPO), and data-centric inference methods (e.g., expectation–maximization, Bayesian inference, and uncertainty-aware data fusion) to derive reliable supervision from noisy, conflicting, and heterogeneous human- and model-generated feedback.</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Compute-Adaptive Agentic Reasoning</h4>
