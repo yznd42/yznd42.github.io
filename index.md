@@ -14,7 +14,7 @@ I am an Assistant Professor in the [Department of Computer Science and Software 
 ## Prospective Students
 
 
-Our lab currently has multiple fully funded Research Assistant (RA) openings for [Ph.D. students in Computer Science](https://programs.miamioh.edu/programs/computer-science-ph-d/). Interested applicants are encouraged to email me their CV and/or research statement at <a href="mailto:zhang981@miamioh.edu">zhang981@miamioh.edu</a>.
+We currently has multiple fully funded Research Assistant (RA) openings for [Ph.D. students in Computer Science](https://programs.miamioh.edu/programs/computer-science-ph-d/). Interested applicants are encouraged to email me their CV and/or research statement at <a href="mailto:zhang981@miamioh.edu">zhang981@miamioh.edu</a>.
 
 
 
