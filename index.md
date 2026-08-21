@@ -21,33 +21,36 @@ Our lab currently has multiple fully funded Research Assistant (RA) openings for
 
 ## Research Interests
 
+<h4 style="margin:0 10px 0;">Data-Centric LLM/VLM Post-Training</h4>
 
-
-<h4 style="margin:0 10px 0;">Human–Generative AI Alignment</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Human-AI collaborative reasoning · LLM alignment from imperfect feedback · uncertainty-aware AI</autocolor></li>
+  <li><autocolor>Develop data-centric post-training systems that integrate on-policy optimization (PPO, GRPO, and OPD), offline learning (SFT and DPO), and truth-discovery methods to derive reliable supervision from noisy, conflicting, and heterogeneous human and model-generated feedback.</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Trustworthy & Domain-Adaptive Generative AI</h4>
+<h4 style="margin:0 10px 0;">Compute-Adaptive Agentic Reasoning</h4>
+
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Multimodal/agentic AI · limited-data learning · scientific and healthcare AI</autocolor></li>
+  <li><autocolor>Design uncertainty- and utility-aware reasoning policies that dynamically allocate test-time computation, balancing premature stopping against wasteful overthinking across token generation, tool use, and knowledge-intensive agentic workflows.</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">AI Systems & Quantum Computing</h4>
+<h4 style="margin:0 10px 0;">Quantum–Classical Computing for Scientific Discovery</h4>
+
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Quantum-AI for scientific data · quantum-classical computing · efficient AI systems</autocolor></li>
+  <li><autocolor>Build scalable QPU–GPU hybrid systems using IBM Quantum and NVIDIA CUDA-Q that combine quantum optimization, GPU-accelerated learning, and classical simulation to advance molecular dynamics, protein folding, and molecular docking for biomedical discovery.</autocolor></li>
 </ul>
 
 
-You can learn more about our lab and research at the [ExploreXploit Lab](https://yznd42.github.io/research/).
+
+For a comprehensive list of the research papers, please visit my <a href="https://scholar.google.com/citations?user=egeD-DMAAAAJ">Google Scholar profile</a>.
+  
 
 
 ## Awards and Honors
 
-- **[2026]** NSF CyberTraining Award, National Science Foundation 
+- **[2026]** NSF CyberTraining Award (~$1M in total funding), National Science Foundation 
 - **[2026]** Best Dataset Paper Award, AAAI ICWSM
 - **[2026]** Rising Stars of Education, Dayton Business Journal 
-- **[2025]** NSF OAC Core Research Award, National Science Foundation 
+- **[2025]** NSF OAC Core Research Award (~$600K in total funding), National Science Foundation 
 - **[2023, 2024, 2025]** Teachers Ranked as Excellent, University of Illinois
 - **[2022]** Best Paper Award, ACM/IEEE ASONAM
 - **[2022]** Best Paper Honorable Mention, IEEE SMARTCOMP

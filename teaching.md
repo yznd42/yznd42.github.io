@@ -6,6 +6,18 @@ show_header: true
 ---
 
 ## Teaching
+<h4 style="margin:0 10px 0;">Spring 2027 (Miami Univeristy)</h4>
+<ul style="margin:0 0 5px;">
+  <li><autocolor>CSE 433/533 Deep Learning</autocolor></li>
+
+</ul>
+
+<h4 style="margin:0 10px 0;">Fall 2026 (Miami Univeristy)</h4>
+<ul style="margin:0 0 5px;">
+  <li><autocolor>CSE 627 Advanced Machine Learning</autocolor></li>
+  <li><autocolor>CSE 434/534 Generative Artificial Intelligence</autocolor></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Spring 2026 (Miami Univeristy)</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor>CSE 434/534 Generative Artificial Intelligence</autocolor></li>
