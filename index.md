@@ -50,7 +50,7 @@ For a comprehensive list of the research papers, please visit my <a href="https:
 - **[2026]** NSF CyberTraining Award (Lead PI, ~$1M in total funding), National Science Foundation 
 - **[2026]** Best Dataset Paper Award, AAAI ICWSM
 - **[2026]** Rising Stars of Education, Dayton Business Journal 
-- **[2025]** NSF OAC Core Research Award (Lead PI, ~$600K in total funding), National Science Foundation 
+- **[2025]** NSF OAC Core Award (Lead PI, ~$600K in total funding), National Science Foundation 
 - **[2023, 2024, 2025]** Teachers Ranked as Excellent, University of Illinois
 - **[2022]** Best Paper Award, ACM/IEEE ASONAM
 - **[2022]** Best Paper Honorable Mention, IEEE SMARTCOMP
