@@ -62,16 +62,12 @@ For a comprehensive list of the research papers, please visit my <a href="https:
 
 
 ## Teaching
-
 <h4 style="margin:0 10px 0;">Miami University</h4>
-
 - **Spring 2027**  CSE 433/533 Deep Learning
 - **Fall 2026**  CSE 627 Advanced Machine Learning; CSE 434/534 Generative Artificial Intelligence
 - **Spring 2026**  CSE 434/534 Generative Artificial Intelligence
 - **Fall 2025**  CSE 434/534 Generative Artificial Intelligence
-
 <h4 style="margin:0 10px 0;"> University of Illinois Urbana-Champaign</h4>
-
 - **Spring 2025**  IS 455 Database Design and Prototyping; IS 327 Concepts of Machine Learning
 - **Fall 202**  IS 455 Database Design and Prototyping
 - **Spring 2024**  IS 455 Database Design and Prototyping; IS 327 Concepts of Machine Learning
