@@ -63,7 +63,7 @@ For a comprehensive list of the research papers, please visit my <a href="https:
 
 ## Teaching
 
-<h4 style="margin:0 10px 0;">Miami University/h4>
+<h4 style="margin:0 10px 0;">Miami University</h4>
 
 - **[Spring 2027]**  CSE 433/533 Deep Learning
 
